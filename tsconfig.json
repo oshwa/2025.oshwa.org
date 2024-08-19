@@ -1,0 +1,72 @@
+{
+    "compilerOptions": {
+        /* Visit https://aka.ms/tsconfig to read more about this file */
+        /*
+         * Type Checking
+         */
+        // Note: We don't use "strict": true since it can introduce new rules with updates to TypeScript, so we
+        // explicitly list out the rules used at the time of authoring.
+        "strict": false,
+        "allowUnreachableCode": false,
+        "allowUnusedLabels": false,
+        "alwaysStrict": true,
+        "exactOptionalPropertyTypes": true,
+        "noFallthroughCasesInSwitch": true,
+        "noImplicitAny": true,
+        "noImplicitOverride": true,
+        "noImplicitReturns": true,
+        "noImplicitThis": true,
+        "noPropertyAccessFromIndexSignature": true,
+        "noUncheckedIndexedAccess": true,
+        "noUnusedLocals": true,
+        // Disabled as overriding a method or adhering to an external interface can lead to unused arguments which makes this more annoying than useful
+        "noUnusedParameters": false,
+        "strictBindCallApply": true,
+        "strictFunctionTypes": true,
+        "strictNullChecks": true,
+        "strictPropertyInitialization": true,
+        "useUnknownInCatchVariables": true,
+        /*
+         * Modules
+         */
+        "allowArbitraryExtensions": true,
+        "allowImportingTsExtensions": true,
+        "module": "esnext",
+        "moduleResolution": "bundler",
+        /*
+         * Emit
+         */
+        // Since tsc is only used for type checking, so no files need to be emitted.
+        "noEmit": true,
+        /*
+         * JavaScript Support
+         */
+        "allowJs": true,
+        "checkJs": true,
+        /*
+         * Interop Constraints
+         */
+        "forceConsistentCasingInFileNames": true,
+        "verbatimModuleSyntax": true,
+        /*
+         * Language and Environment
+         */
+        "experimentalDecorators": true,
+        "lib": [
+            "DOM",
+            "DOM.Iterable",
+            "ES2023",
+        ],
+        "target": "es2022",
+        // Note: this is required to use experimental decorators
+        "useDefineForClassFields": false,
+    },
+    "include": [
+        "./src/**/*",
+        "./scripts/**/*",
+        "eleventy.config.ts",
+    ],
+    "exclude": [
+        "./node_modules",
+    ]
+}

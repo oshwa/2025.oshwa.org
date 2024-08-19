@@ -1,0 +1,33 @@
+{
+    "name": "ohm.oshwa.org",
+    "private": "true",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "//": "This weird invocation of eleventy is due to https://github.com/11ty/eleventy/issues/3353",
+        "build": "tsx node_modules/@11ty/eleventy/cmd.cjs --config=eleventy.config.ts",
+        "serve": "tsx node_modules/@11ty/eleventy/cmd.cjs --config=eleventy.config.ts --serve",
+        "lint:eslint": "eslint eleventy.config.ts src",
+        "lint:types": "tsc -p tsconfig.json",
+        "lint:prettier": "prettier eleventy.config.ts src scripts --check",
+        "lint": "pnpm run lint:eslint && npm run lint:types && npm run lint:prettier"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "CC-BY-SA 4.0",
+    "dependencies": {
+        "@11ty/eleventy": "3.0.0-alpha.17",
+        "dayjs": "^1.11.12",
+        "tsx": "^4.16.2"
+    },
+    "devDependencies": {
+        "@eslint/js": "^9.8.0",
+        "@types/eslint__js": "^8.42.3",
+        "eslint": "^9.8.0",
+        "eslint-config-prettier": "^9.1.0",
+        "prettier": "^3.3.3",
+        "typescript": "^5.5.4",
+        "typescript-eslint": "^7.18.0"
+    }
+}

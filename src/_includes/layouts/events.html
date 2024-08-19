@@ -1,0 +1,33 @@
+---
+layout: layouts/base.html
+eleventyImport:
+  collections: ["events"]
+---
+<div class="events content my-6">
+    {{ content }}
+</div>
+
+{% for event in collections.events reversed %}
+<div class="columns event-list-item">
+  <div class="column is-one-fifth">
+    <div class="level">
+      <div class="level-item has-text-centered is-family-display">
+        <div>
+          <p>{{event.data.start | formatDate: "MMM"}}</p>
+          <p class="is-size-3">{{event.data.start | formatDate: "D"}}</p>
+          <p>{{event.data.start | formatDate: "YYYY"}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <a class="title is-3 is-family-display" href="{{event.url}}">{{event.data.title}}</a>
+    <p class="subtitle my-1">{% formatEventDates event.data.start, event.data.end, event.data.timezone %}</p>
+    <p class="subtitle">{{event.data.location}}</p>
+    <p>{{event.content}}</p>
+    <p class="my-4">
+      <a href="{{event.url}}">More details</a>
+    </p>
+  </div>
+</div>
+{% endfor %}

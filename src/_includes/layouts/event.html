@@ -1,0 +1,13 @@
+---
+layout: layouts/base.html
+---
+<div class="event content my-6">
+    <h1 class="title">{{title}}</h1>
+    <p class="subtitle">{% formatEventDates start, end, timezone %}</p>
+    <p class="subtitle">{{location}}</p>
+    <p>{{content}}</p>
+    <p class="has-text-centered my-6">
+        <a class="button is-rounded is-primary" href="{{link}}" target="_blank">Event website</a>
+        <a class="button is-rounded is-link" href="{% eventGoogleCalendarLink title, link, location, start, end, timezone %}" target="_blank">Add to Calendar</a>
+    </p>
+</div>

@@ -1,0 +1,23 @@
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="/">
+      <img src="/static/images/ohm-lockup-color-logomark.png">
+    </a>
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+
+  <div id="navbarMenu" class="navbar-menu">
+    <div class="navbar-end">
+      {% for item in nav.items %}
+      <a class="navbar-item {% if item.url == page.url %}is-active{% endif %}" href="{{item.url}}">
+        {{item.title}}
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</nav>

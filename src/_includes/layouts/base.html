@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" class="theme-light">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <title>{{ title ?? metadata.title }}</title>
+  <meta name="description" content="{{ metaDescription ?? eleventyComputed.metaDescription ?? metadata.description }}">
+
+  <link rel="stylesheet" type="text/css" href="/static/styles/oshwa.css" />
+  <title></title>
+</head>
+
+<body>
+  <section class="section">
+    <div class="container is-max-desktop">
+
+      {% include "components/navbar.html" %}
+
+      <main class="main">
+        {{ content }}
+      </main>
+
+      {% include "components/footer.html" %}
+      {% include "components/scripts.html" %}
+    </div>
+  </section>
+</body>
+
+</html>
