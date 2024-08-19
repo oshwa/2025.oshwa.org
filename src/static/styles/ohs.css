@@ -1,4 +1,4 @@
-/* Common CSS for OSHWA microsites */
+/* OHS CSS, modified from OSHWA microsite common CSS */
 
 @import "./bulma.min.css";
 @import "../fonts/bluunext/bluunext.css";
@@ -6,23 +6,29 @@
 @import "../fonts/jacquard-24/jacquard-24.css";
 
 :root {
-    --oshwa-family-display: "BluuNext", Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
-    --oshwa-family-text: "Office Code Pro", 'Nimbus Mono PS', 'Courier New', monospace;
+    --ohs-family-display: "BluuNext", Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
+    --ohs-family-text: "Office Code Pro", 'Nimbus Mono PS', 'Courier New', monospace;
+
+    --ohs-color-primary: #615d59;
+    --ohs-color-accent-pink: #F8DBFF;
+    --ohs-color-accent-yellow: #ebe446;
 }
 
 .is-family-text {
-    font-family: var(--oshwa-family-text);
+    font-family: var(--ohs-family-text);
 }
 
 .is-family-display {
-    font-family: var(--oshwa-family-display);
+    font-family: var(--ohs-family-display);
     font-weight: bold;
 }
 
 /* Bulma customizations */
 :root {
     --bulma-body-size: 18px;
-    --bulma-family-primary: var(--oshwa-family-text);
+    --bulma-family-primary: var(--ohs-family-text);
+    --bulma-text: var(--ohs-color-primary);
+    --bulma-text-strong: var(--ohs-color-primary);
 }
 
 .content h1,
@@ -31,11 +37,11 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: var(--oshwa-family-display);
+    font-family: var(--ohs-family-display);
 }
 
 .navbar {
-    font-family: var(--oshwa-family-display);
+    font-family: var(--ohs-family-display);
     font-weight: bold;
 }
 

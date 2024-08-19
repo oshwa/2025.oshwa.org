@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.html
-title: Home
+title: 2025 Open Hardware Summit
 ---
 
 # October is Open Hardware Month!
