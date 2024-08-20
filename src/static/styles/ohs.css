@@ -162,7 +162,7 @@ main a {
     display: flex;
     flex-direction: row;
     width: 100%;
-    gap: 2rem;
+    gap: 3rem;
     align-items: start;
     margin-block: 2rem;
 }
@@ -201,6 +201,19 @@ main a {
     margin-right: 1rem;
 }
 
+
+@media screen and (max-width: 1023px) {
+    .cool-person {
+        flex-direction: column;
+    }
+
+    .cool-person img {
+        max-width: 75%;
+        max-height: unset;
+        margin-inline: auto;
+    }
+}
+
 /* Shadow magic */
 
 .has-outlined-shadow, .has-yellow-outlined-shadow {
@@ -228,7 +241,7 @@ main a {
     margin-block-start: 6rem;
     margin-inline: auto;
     padding: 3rem 1.5rem 3rem;
-    max-width: 800px;
+    max-width: min(800px, 80%);
     font-size: 0.9rem;
     background-color: var(--ohs-color-primary);
     color: white;
