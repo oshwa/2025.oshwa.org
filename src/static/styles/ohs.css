@@ -8,6 +8,7 @@
 :root {
     --ohs-family-display: "BluuNext", Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
     --ohs-family-text: "Office Code Pro", 'Nimbus Mono PS', 'Courier New', monospace;
+    --ohs-family-numeric-accent: "Jacquard 24", "BluuNext", Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
 
     --ohs-color-primary: #615d59;
     --ohs-color-accent-pink: #F8DBFF;
@@ -21,6 +22,10 @@
 .is-family-display {
     font-family: var(--ohs-family-display);
     font-weight: bold;
+}
+
+.is-family-numeric-accent {
+    font-family: var(--ohs-family-numeric-accent);
 }
 
 /* Bulma customizations */
@@ -38,6 +43,10 @@ h4,
 h5,
 h6 {
     font-family: var(--ohs-family-display);
+}
+
+.content h2:not(:first-child) {
+    margin-top: 4rem;
 }
 
 .navbar {
@@ -84,4 +93,152 @@ h6 {
         transform: scaleY(1);
         opacity: 1;
     }
+}
+
+/* Special OHS-specific fun stuff */
+
+
+/* Highlights and such */
+
+main strong {
+    font-weight: normal;
+    background-color: var(--ohs-color-accent-yellow);
+    outline: 0.15em solid var(--ohs-color-accent-yellow);
+}
+main em {
+    background-color: var(--ohs-color-accent-pink);
+}
+main a {
+    --bulma-link-text: var(--ohs-color-primary);
+    --bg: var(--ohs-color-accent-pink);
+    background-color: var(--bg);
+    outline: 0.15em solid var(--bg);
+}
+
+
+/* Navbar brand */
+
+.navbar-brand {
+    align-items: center;
+}
+
+.navbar-brand .navbar-item {
+    display: flex;
+    gap: 0.25rem;
+    align-items: baseline;
+}
+
+.navbar-brand .navbar-item .is-numbers {
+    font-family: var(--ohs-family-numeric-accent);
+    font-weight: normal;
+    font-size: 200%;
+    line-height: 0;
+}
+
+/* Home page layouts with lil illustrations */
+
+.lil-guy {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap: 2rem;
+    align-items: center;
+    margin-block: 2rem;
+}
+
+.lil-guy img {
+    max-width: 30%;
+    max-height: 10rem;
+    flex-shrink: 1;
+}
+
+.lil-guy.is-right {
+    flex-direction: row-reverse;
+}
+
+/* Home page / speaker layouts for people */
+
+.cool-person {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap: 2rem;
+    align-items: start;
+    margin-block: 2rem;
+}
+
+.cool-person img {
+    margin-top: 1.5rem;
+    max-width: 15rem;
+    max-height: 10rem;
+    flex-shrink: 1;
+}
+
+.cool-person ul.details {
+    list-style: none;
+    margin-inline: 0;
+    margin-block: 0.75rem;
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    font-size: 1.2rem;
+}
+
+.cool-person ul.details li {
+    margin: 0;
+    padding: 0;
+}
+
+.cool-person ul.details li a {
+    --bg: var(--ohs-color-accent-yellow);
+}
+
+.cool-person ul.details li+li {
+}
+
+.cool-person ul.details li+li::before {
+    content: "·";
+    margin-right: 1rem;
+}
+
+/* Shadow magic */
+
+.has-outlined-shadow, .has-yellow-outlined-shadow {
+    --shadow-color: var(--ohs-color-accent-pink);
+    --shadow-outline-color: var(--ohs-color-primary);
+    --shadow-offset: 18px;
+    --shadow-border: 3px;
+    --shadow-border-max: calc(var(--shadow-offset) + var(--shadow-border));
+    --shadow-border-min: calc(var(--shadow-offset) - var(--shadow-border));
+    --main-shadow: var(--shadow-offset) calc(var(--shadow-offset) * -1) 0 var(--shadow-color);
+    --outline-shadow-1: var(--shadow-border-max) calc(var(--shadow-border-max) * -1) 0 var(--shadow-outline-color);
+    --outline-shadow-2: var(--shadow-border-min) calc(var(--shadow-border-max) * -1) 0 var(--shadow-outline-color);
+    --outline-shadow-3: var(--shadow-border-max) calc(var(--shadow-border-min) * -1) 0 var(--shadow-outline-color);
+    box-shadow: var(--main-shadow), var(--outline-shadow-1), var(--outline-shadow-2), var(--outline-shadow-3);
+}
+
+.has-yellow-outlined-shadow {
+    --shadow-color: var(--ohs-color-accent-yellow);
+}
+
+
+/* Footer magic */
+
+.footer {
+    margin-block-start: 6rem;
+    margin-inline: auto;
+    padding: 3rem 1.5rem 3rem;
+    max-width: 800px;
+    font-size: 0.9rem;
+    background-color: var(--ohs-color-primary);
+    color: white;
+}
+
+.footer a {
+    --bulma-link-text: var(--ohs-color-accent-yellow);
+}
+
+.footer img {
+    margin-block: auto 2rem;
+    max-width: 50%;
 }

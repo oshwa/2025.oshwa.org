@@ -1,8 +1,16 @@
-<footer class="footer">
+<footer class="footer has-outlined-shadow">
   <div class="content has-text-centered">
+    <img src="/static/images/lil-guy-5-white.svg">
     <p>
-      © {{ metadata.copyright.year }} {{metadata.copyright.author}},
-      Published under <a href="{{metadata.copyright.license_url}}" target="_blank">{{metadata.copyright.license}}</a>,
+      © {{ metadata.copyright.year }} {{metadata.copyright.author}}
+    </p>
+    <p>
+      Design by <a href="https://www.innerloop.press/">inner loop press</a>, web design by <a href="winterbloom.com">Winterbloom</a>
+    </p>
+    <p>
+      Published under <a href="{{metadata.copyright.license_url}}" target="_blank">{{metadata.copyright.license}}</a>
+    </p>
+    <p>
       <a href="{{metadata.github_url}}/blob/main/{{ page.inputPath }}" target="_blank">Edit on GitHub</a>
     </p>
   </div>
