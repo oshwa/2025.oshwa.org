@@ -1,9 +1,11 @@
 export default {
     items: [
-        { title: "Planning an Event", url: "/event-planning/" },
-        { title: "Dos and Don'ts", url: "/dos-and-donts/" },
-        { title: "Resources", url: "/resources/" },
-        { title: "Certification", url: "https://certification.oshwa.org" },
-        { title: "Events", url: "/events/" },
+        { title: "Attend", url: "/attend/" },
+        { title: "Speak", url: "/speak/" },
+        { title: "Schedule", url: "/schedule/" },
+        { title: "Sponsor", url: "/sponsor/" },
+        { title: "Fellowship", url: "/events/" },
+        { title: "Tables", url: "/tables/" },
+        { title: "Code of Conduct", url: "/code-of-conduct/" },
     ],
 };
