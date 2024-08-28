@@ -29,8 +29,7 @@ export default function (eleventyConfig: any) {
                 const aDate = dayjs(a.start, eventDateFormat);
                 const bDate = dayjs(b.start, eventDateFormat);
                 return bDate.unix() - aDate.unix();
-            })
-            .reverse();
+            });
     });
 
     eleventyConfig.addFilter("formatDate", (date: Date, template: string, timezone: string = "America/New_York") => {
@@ -44,6 +43,13 @@ export default function (eleventyConfig: any) {
         const endDate = dayjs.tz(end, eventDateFormat, timezone);
 
         return `${startDate.format("MMMM D, YYYY")} @ ${startDate.format("h:mm A")} - ${endDate.format("h:mm A z")}`;
+    });
+
+    eleventyConfig.addShortcode("formatEventTimes", (start: string, end: string, timezone: string) => {
+        const startDate = dayjs.tz(start, eventDateFormat, timezone);
+        const endDate = dayjs.tz(end, eventDateFormat, timezone);
+
+        return `${startDate.format("h:mm A")} - ${endDate.format("h:mm A z")}`;
     });
 
     eleventyConfig.addShortcode(
