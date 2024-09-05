@@ -3,7 +3,7 @@ layout: layouts/home.html
 title: 2025 Open Hardware Summit
 ---
 
-# The Open Hardware Summit is coming to the UK!
+# The Open Hardware Summit is coming to Scotland!
 
 <div class="lil-guy">
     <img src="/static/images/lil-guy-1-color.svg">
@@ -12,7 +12,7 @@ title: 2025 Open Hardware Summit
             We are beyond excited to share our new design for this year from <strong>Tanya Brassie</strong> of <a href="https://innerloop.press/" target="_blank">Inner Loop Press</a>! Check out their work!
         </p>
         <p>
-            <strong>And</strong> we are going to be coming to Edinburgh in <em>May 2025</em>! We will be releasing our call for proposals, workshops and exhibitors in the coming weeks. Before we get into it, we’re trying to build an amazing team of on-the-ground helpers and teammates.
+            <strong>And</strong> we are going to be coming to Edinburgh on <em>May 30th & 31st, 2025</em>! We will be releasing our call for proposals, workshops and exhibitors in the coming weeks. Before we get into it, we’re trying to build an amazing team of on-the-ground helpers and teammates.
         </p>
     </div>
 </div>
@@ -47,12 +47,12 @@ title: 2025 Open Hardware Summit
 
 Here’s what we’re looking for:
 
-- People who can help us reach the weird, wonderful, and technical open source, Hacker, DIY, tech/art and maker community in **Edinburgh, London**, and all around the UK and Europe.
+- People who can help us reach the weird, wonderful, and technical open source, Hacker, DIY, tech/art and maker community in **Edinburgh**, **Glasgow**, and all around the UK and Europe.
 - People who are connected with makerspaces, hackerspaces, labs or other creative spaces that can help spread the word all around the world.
 - People who are excited about reaching diverse and underrepresented populations.
 - Spaces interesting in hosting workshops, parties, community gatherings and other happenings.
 - Seasoned open source enthusiast **and** people who want to be involved in open source but aren’t sure how. No experience required.
-- Be able to attend (or contribute to asynchronously) to meetings once a month, usually Wednesday evenings in US Eastern Time (`UTC-5`).
+- Be able to attend (or contribute to asynchronously) to meetings once a month, usually Wednesday mornings in US Eastern Time (`UTC-4`) or around 5 PM GMT (`UTC+1`).
 
 Specifically, we are still looking for a **venue for day 2**, which can hold people in various rooms for breakout sessions and workshops.
 
