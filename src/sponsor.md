@@ -133,6 +133,7 @@ Notes on Logo Display:
 
 OSHWA can accept payment for OHS sponsorships via multiple means:
 
+- Via our [donation portal](https://secure.lglforms.com/form_engine/s/BSGsxCH2nm68Vkq1l6nD0g).
 - Bank transfer, please email [summit-sponsors@oshwa.org](mailto:summit-sponsors@oshwa.org) for details.
 - [Physical check via mail](https://www.oshwa.org/about/contact-info/)
 - PayPal via the button below.
