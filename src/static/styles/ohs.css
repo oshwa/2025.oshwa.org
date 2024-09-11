@@ -156,6 +156,18 @@ main a {
     flex-direction: row-reverse;
 }
 
+/* Home page big quote */
+
+.big-quote {
+    padding: 3rem;
+    background-color: var(--ohs-color-accent-pink);
+    border: 3px solid var(--ohs-color-primary);
+}
+
+.big-quote .button {
+    border-radius: 0;
+}
+
 /* Home page / speaker layouts for people */
 
 .cool-person {

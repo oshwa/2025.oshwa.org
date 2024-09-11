@@ -5,6 +5,16 @@ title: 2025 Open Hardware Summit
 
 # The Open Hardware Summit is coming to Scotland!
 
+<div class="lil-guy is-right">
+    <img src="/static/images/lil-guy-6-color.svg">
+    <div class="big-quote has-yellow-outlined-shadow">
+        <p>Want to speak at Open Hardware Summit? Our call for proposals for talks, workshops, and exhibitors is open!</p>
+        <p>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiuWtUClyQ2Aj-CBFwZacpfL9xxgG_ZA8ImF0SF9sT2-sqKA/viewform" target="_blank" class="button">Submit a proposal</a>
+        </p>
+    </div>
+</div>
+
 <div class="lil-guy">
     <img src="/static/images/lil-guy-1-color.svg">
     <div>
@@ -12,7 +22,7 @@ title: 2025 Open Hardware Summit
             We are beyond excited to share our new design for this year from <strong>Tanya Brassie</strong> of <a href="https://innerloop.press/" target="_blank">Inner Loop Press</a>! Check out their work!
         </p>
         <p>
-            <strong>And</strong> we are going to be coming to Edinburgh on <em>May 30th & 31st, 2025</em>! We will be releasing our call for proposals, workshops and exhibitors in the coming weeks. Before we get into it, we’re trying to build an amazing team of on-the-ground helpers and teammates.
+            <strong>And</strong> we are going to be coming to Edinburgh on <em>May 30th & 31st, 2025</em>! Our <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiuWtUClyQ2Aj-CBFwZacpfL9xxgG_ZA8ImF0SF9sT2-sqKA/viewform" target="_blank">call for proposals</a> for talks, workshops, and exhibitors is currently open and we’re also building an amazing team of on-the-ground helpers and teammates, read on for more details!
         </p>
     </div>
 </div>
