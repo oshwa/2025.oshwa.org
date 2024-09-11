@@ -3,8 +3,6 @@ layout: layouts/page.html
 title: Sponsor
 ---
 
-TODO: Paypal button
-
 # Sponsor the Open Hardware summit
 
 Edinburgh, Scotland ● May 30-31, 2025 ● University of Edinburgh
@@ -130,3 +128,21 @@ Notes on Logo Display:
 - Our website sponsorship wall is organized such that the higher your sponsorship level, the larger your logo appears
 - Please send vector images that scale well on a large screen
 - Email your logos to [summit-sponsors@oshwa.org](mailto:summit-sponsors@oshwa.org)
+
+## Payments
+
+OSHWA can accept payment for OHS sponsorships via multiple means:
+
+- Bank transfer, please email [summit-sponsors@oshwa.org](mailto:summit-sponsors@oshwa.org) for details.
+- [Physical check via mail](https://www.oshwa.org/about/contact-info/)
+- PayPal via the button below.
+
+<div class="my-6 has-text-centered">
+    <form action="https://www.paypal.com/donate" method="post" target="_top">
+    <input type="hidden" name="hosted_button_id" value="5486BSWNDPASU">
+    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button">
+    <img decoding="async" alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+    </form>
+</div>
+
+If you have any questions, need an invoice, or would like to arrange payment in a different manner, please email [summit-sponsors@oshwa.org](mailto:summit-sponsors@oshwa.org).
