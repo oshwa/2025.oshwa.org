@@ -267,3 +267,34 @@ main a {
     margin-block: auto 2rem;
     max-width: 12rem;
 }
+
+/* Let's make blockquotes fancy */
+
+.content blockquote, .content blockquote:not(:last-child) {
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    padding: 2rem;
+    background-color: var(--ohs-color-accent-pink);
+    border: 3px solid var(--ohs-color-primary);
+
+    --shadow-color: var(--ohs-color-accent-yellow);
+    --shadow-outline-color: var(--ohs-color-primary);
+    --shadow-offset: 18px;
+    --shadow-border: 3px;
+    --shadow-border-max: calc(var(--shadow-offset) + var(--shadow-border));
+    --shadow-border-min: calc(var(--shadow-offset) - var(--shadow-border));
+    --main-shadow: var(--shadow-offset) calc(var(--shadow-offset) * -1) 0 var(--shadow-color);
+    --outline-shadow-1: var(--shadow-border-max) calc(var(--shadow-border-max) * -1) 0 var(--shadow-outline-color);
+    --outline-shadow-2: var(--shadow-border-min) calc(var(--shadow-border-max) * -1) 0 var(--shadow-outline-color);
+    --outline-shadow-3: var(--shadow-border-max) calc(var(--shadow-border-min) * -1) 0 var(--shadow-outline-color);
+    box-shadow: var(--main-shadow), var(--outline-shadow-1), var(--outline-shadow-2), var(--outline-shadow-3);
+}
+
+
+.content blockquote.is-quiet {
+    box-shadow: none;
+    font-size: 0.9em;
+    padding: 1.5rem;
+    background-color: var(--ohs-color-primary);
+    color: white;
+}
