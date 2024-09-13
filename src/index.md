@@ -104,7 +104,7 @@ See you in Edinburgh!
 <div class="cool-person">
     <img src="/static/images/sid.png" class="has-outlined-shadow">
     <div>
-        <h3>Sid Dirmay</h3>
+        <h3>Sid Drmay</h3>
         <ul class="details">
             <li class="role">Fellowship chair</li>
             <li><a href="">@webspookie</a></li>
