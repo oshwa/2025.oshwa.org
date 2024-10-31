@@ -49,6 +49,7 @@ This level is intended for small companies who are under resourced, but still wa
 - You will be able to add one (1) item in the physical goodie bag.\*\*
 - You will be able to add one (1) item in the digital goodie bag.\*\*
 - An opportunity to have a demo table during the summit.
+* A branded discount code for sponsors to use with your communities.
 
 **Fanatic: $5,000 USD**
 
@@ -59,6 +60,7 @@ This level is intended for small companies who are under resourced, but still wa
 - You will be able to add TWO items in the physical goodie bag.\*\*
 - You will be able to add TWO items in the digital goodie bag.\*\*
 - An opportunity to have a demo table during the summit.
+* A branded discount code for sponsors to use with your communities.
 
 **Visionary: $10,000 USD**
 
@@ -71,6 +73,7 @@ the auditorium.
 - You will be able to add TWO items in the digital goodie bag.\*\*
 - An opportunity to have a demo table during the summit.
 - Interview on the OHS YouTube.
+* A branded discount code for sponsors to use with your communities.
 
 **Non-profit:**
 
