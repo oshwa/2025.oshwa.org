@@ -8,8 +8,9 @@ title: 2025 Open Hardware Summit
 <div class="lil-guy is-right">
     <img src="/static/images/lil-guy-6-color.svg">
     <div class="big-quote has-yellow-outlined-shadow">
-        <p>Want to speak at Open Hardware Summit? Our call for proposals for talks, workshops, and exhibitors is open!</p>
+        <p>Tickets are now on sale! Snag yours early for a discount. Also, our call for proposals for talks, workshops, and exhibitors is still open!</p>
         <p>
+            <a href="https://www.eventbrite.ca/e/1067611086499/?aff=oddtdtcreator " target="_blank" class="button">Get tickets</a>
             <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiuWtUClyQ2Aj-CBFwZacpfL9xxgG_ZA8ImF0SF9sT2-sqKA/viewform" target="_blank" class="button">Submit a proposal</a>
         </p>
     </div>
@@ -46,7 +47,7 @@ title: 2025 Open Hardware Summit
             Our international event usually has around 300 attendees from around the world, you can find past schedules <a href="http://2024.oshwa.org" target="_blank">here</a>, <a href="http://2023.oshwa.org" target="_blank">here</a>, and <a href="http://2022.oshwa.org" target="_blank">here</a> (and for the past 10+ years).
         </p>
         <p>
-            We'll have more details to share shortly, including when tickets go on sale and when we'll begin our call for speakers! In the meantime, <a href="#get-involved">get involved</a>, <a href="https://oshwa.us19.list-manage.com/subscribe?u=3e1619d377d5a6c361ef3292b&id=ca147d8610" target="_blank">sign up for our newsletter</a>, or <a href="mailto:summit@oshwa.org" target="_blank">drop us an email</a>!
+            Sound cool to you? <a href="#get-involved">get involved</a>, <a href="https://oshwa.us19.list-manage.com/subscribe?u=3e1619d377d5a6c361ef3292b&id=ca147d8610" target="_blank">sign up for our newsletter</a>, or <a href="mailto:summit@oshwa.org" target="_blank">drop us an email</a>!
         </p>
     </div>
 </div>
