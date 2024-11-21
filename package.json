@@ -19,6 +19,7 @@
     "dependencies": {
         "@11ty/eleventy": "3.0.0-alpha.17",
         "dayjs": "^1.11.12",
+        "markdown-it-anchor": "^9.2.0",
         "tsx": "^4.16.2"
     },
     "devDependencies": {

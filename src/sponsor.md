@@ -7,7 +7,13 @@ title: Sponsor
 
 Edinburgh, Scotland ● May 30-31, 2025 ● University of Edinburgh
 
-> The Open Hardware summit is the only conference dedicated to discussing Open Source Hardware. Open Source Hardware is a community-focused method of creating where we share knowledge openly, welcome collaboration, and frequently create together. The Open Hardware summit is a place to compare notes, see the state of the art, and spend some time talking about where the open source movement is headed. The summit often contains workshops, talks, connections, mentorship.
+<blockquote>
+    <p>The Open Hardware summit is the only conference dedicated to discussing Open Source Hardware. Open Source Hardware is a community-focused method of creating where we share knowledge openly, welcome collaboration, and frequently create together. The Open Hardware summit is a place to compare notes, see the state of the art, and spend some time talking about where the open source movement is headed. The summit often contains workshops, talks, connections, mentorship.</p>
+    <p>
+        <a href="#sponsorship-levels" class="button">Sponsorship levels</a>
+        <a href="#headline-sponsors" class="button">Headline sponsors</a>
+    </p>
+</blockquote>
 
 
 ## What sets us apart
@@ -84,7 +90,13 @@ Give what you can at the non-profit level (Suggested `$300 USD`)! This level is 
 - A shout out and thank you on the OHSummit Twitter account.
 - You will be able to add one (1) item in the physical goodie bag.\*\*
 
-Questions about sponsorship? Email [summit-sponsors@oshwa.org](mailto:summit-sponsors@oshwa.org)
+
+> Ready to sponsor?
+>
+> <a href="https://secure.lglforms.com/form_engine/s/BSGsxCH2nm68Vkq1l6nD0g" target="_blank" class="button">Donate now</a>
+>
+> Questions? Email [summit-sponsors@oshwa.org](mailto:summit-sponsors@oshwa.org)
+
 
 ## Headline sponsors
 
@@ -120,7 +132,11 @@ Would you like to have your logo on our badges, which sometimes light up, intera
 - Your name and logo on signage near the refreshment table.
 - *Plus* everything included in the Enthusiast level sponsorship.
 
-Questions about sponsorship? Email [summit-sponsors@oshwa.org](mailto:summit-sponsors@oshwa.org)
+> Interested in being a headline sponsor?
+>
+> <a href="https://secure.lglforms.com/form_engine/s/sb0TeprRqMfKEkMDJIZtwA" target="_blank" class="button">Donate now</a>
+>
+> Questions? Email [summit-sponsors@oshwa.org](mailto:summit-sponsors@oshwa.org)
 
 ## Details
 
@@ -136,7 +152,7 @@ Notes on Logo Display:
 
 OSHWA can accept payment for OHS sponsorships via multiple means:
 
-- Via our [donation portal](https://secure.lglforms.com/form_engine/s/BSGsxCH2nm68Vkq1l6nD0g).
+- Via our donation portal [for sponsors](https://secure.lglforms.com/form_engine/s/BSGsxCH2nm68Vkq1l6nD0g) and for [headline sponsors](https://secure.lglforms.com/form_engine/s/sb0TeprRqMfKEkMDJIZtwA).
 - [Physical check via mail](https://www.oshwa.org/about/contact-info/)
 - PayPal via the button below.
 

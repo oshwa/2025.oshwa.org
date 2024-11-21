@@ -3,6 +3,7 @@ import customParseFormat from "dayjs/plugin/customParseFormat";
 import utc from "dayjs/plugin/utc";
 import timezone from "dayjs/plugin/timezone";
 import advancedFormat from "dayjs/plugin/advancedFormat";
+import mdAnchorPlugin from "markdown-it-anchor";
 
 dayjs.extend(utc);
 dayjs.extend(timezone);
@@ -19,6 +20,8 @@ export default function (eleventyConfig: any) {
         "html",
         "md",
     ]);
+
+    eleventyConfig.amendLibrary("md", (mdLib: any) => mdLib.use(mdAnchorPlugin));
 
     const eventDateFormat = "YYYY-M-D h:mm A";
 
