@@ -91,7 +91,7 @@ See you in Edinburgh!
         <h3>Lee Wilkins</h3>
         <ul class="details">
             <li class="role">Summit chair</li>
-            <li><a href="">@leeborg_</a></li>
+            <li><a href="https://bsky.app/profile/leeborg.bsky.social">@leeborg</a></li>
         </ul>
         <p>
             Lee is an artist, cyborg, and educator currently based in Montreal. They hold a bachelor's from Concordia University, a master's from OCAD University, and currently are a PhD candidate at the University of Toronto. Lee is interested in lasers, technology, outer space exploration, and building whimsical robots.
@@ -108,7 +108,7 @@ See you in Edinburgh!
         <h3>Sid Drmay</h3>
         <ul class="details">
             <li class="role">Fellowship chair</li>
-            <li><a href="">@webspookie</a></li>
+            <li><a href="https://bsky.app/profile/cyborggarbage.bsky.social">@cyborggarbage</a></li>
         </ul>
         <p>
             Sid is a queer non-binary trans interdisciplinary artist who loves textiles, cyberpunk and snails. They work as the OSHWA's community coordinator and the summit fellowship chair for the OHS. They are also co-chair of <a href="">Dinacon</a> and a freelance journalist with bylines in CBC, This Magazine, and Broken Pencil Magazine. They are a passionate arts educator and zinester. They are probably in the middle of too many projects right now. You can find them at <a href="">sidneydrmay.com</a>.
