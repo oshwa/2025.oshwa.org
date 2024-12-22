@@ -156,6 +156,21 @@ main a {
     flex-direction: row-reverse;
 }
 
+
+@media screen and (max-width: 1023px) {
+    .lil-guy {
+        flex-direction: column;
+    }
+
+    .lil-guy.is-right {
+        flex-direction: column;
+    }
+
+    .lil-guy img {
+        max-width: 50%;
+    }
+}
+
 /* Home page big quote */
 
 .big-quote {
@@ -166,6 +181,14 @@ main a {
 
 .big-quote .button {
     border-radius: 0;
+}
+
+
+@media screen and (max-width: 1023px) {
+    .big-quote {
+        padding: 1.5rem;
+        max-width: calc(100% - 1rem);
+    }
 }
 
 /* Home page / speaker layouts for people */
@@ -213,7 +236,6 @@ main a {
     margin-right: 1rem;
 }
 
-
 @media screen and (max-width: 1023px) {
     .cool-person {
         flex-direction: column;
@@ -223,6 +245,15 @@ main a {
         max-width: 75%;
         max-height: unset;
         margin-inline: auto;
+    }
+
+    .cool-person ul.details {
+        flex-direction: column;
+    }
+
+    .cool-person ul.details li+li::before {
+        content: none;
+        margin-right: 0;
     }
 }
 
@@ -268,6 +299,13 @@ main a {
     max-width: 12rem;
 }
 
+@media screen and (max-width: 1023px) {
+    .footer {
+        padding: 1.5rem;
+        max-width: calc(100% - 1rem);
+    }
+}
+
 /* Let's make blockquotes fancy */
 
 .content blockquote, .content blockquote:not(:last-child) {
@@ -297,4 +335,11 @@ main a {
     padding: 1.5rem;
     background-color: var(--ohs-color-primary);
     color: white;
+}
+
+@media screen and (max-width: 1023px) {
+    .content blockquote, .content blockquote:not(:last-child) {
+        padding: 1.5rem;
+        max-width: calc(100% - 1rem);
+    }
 }
