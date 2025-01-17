@@ -95,7 +95,7 @@ See you in Edinburgh!
             Lee is an artist, cyborg, and educator currently based in Montreal. They hold a bachelor's from Concordia University, a master's from OCAD University, and currently are a PhD candidate at the University of Toronto. Lee is interested in lasers, technology, outer space exploration, and building whimsical robots.
         </p>
         <p>
-            They are a member of OSHWA's board of directors, co-executive director at <a href="">Little Dada</a>, and secretary and board member at <a href="Pleasure Dome">. You may know them from co-organizing events like <a href="">Make Change Conference</a>, <a href="">Make Friends Meetup</a>, <a href="">Long Exposure Festival</a>, <a href="">Defcon Biohacking Village</a>, or from being director at <a href="">Site 3 coLaboratory</a>.
+            They are a member of OSHWA's board of directors, co-executive director at <a href="http://littledada.ca/">Little Dada</a>, and secretary and board member at <a href="https://pdome.org">Pleasure Dome</a>. You may know them from co-organizing events like Make Change Conference, Make Friends Meetup, Long Exposure Festival, <a href="https://www.villageb.io/">Defcon Biohacking Village</a>, or from being director at <a href="http://site3.ca/">Site 3 coLaboratory</a>.
         </p>
     </div>
 </div>
@@ -109,7 +109,7 @@ See you in Edinburgh!
             <li><a href="https://bsky.app/profile/cyborggarbage.bsky.social">@cyborggarbage</a></li>
         </ul>
         <p>
-            Sid is a queer non-binary trans interdisciplinary artist who loves textiles, cyberpunk and snails. They work as the OSHWA's community coordinator and the summit fellowship chair for the OHS. They are also co-chair of <a href="">Dinacon</a> and a freelance journalist with bylines in CBC, This Magazine, and Broken Pencil Magazine. They are a passionate arts educator and zinester. They are probably in the middle of too many projects right now. You can find them at <a href="">sidneydrmay.com</a>.
+            Sid Drmay is an artist, maker and freelance journalist based in KW, ON. They have a deep passion for zines and run the <a href="https://www.sidneydrmay.com/the-hamilton-zine-machine">Hamilton Zine Machine<a/> as well as KW Zinetopia. They have written for <a href="https://this.org/">This Magazine</a>, <a href="https://wayback.archive-it.org/17766/20240210053551/https://shamelessmag.com/">Shameless Magazine</a>, <a href="https://xtramagazine.com/">Xtra Magazine</a> and CBC. They currently co-chair the <a href="https://www.dinacon.org/">Digital Naturalism Conference</a> and work as the Community Manager & Fellowship Chair for the Open Source Hardware Association. You can find them being annoying online on nearly every platform <a href="https://bsky.app/profile/cyborggarbage.bsky.social">@cyborggarbage</a>.
         </p>
     </div>
 </div>
