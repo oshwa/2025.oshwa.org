@@ -29,6 +29,7 @@
 }
 
 /* Bulma customizations */
+
 :root {
     --bulma-body-size: 18px;
     --bulma-family-primary: var(--ohs-family-text);
@@ -66,6 +67,11 @@ h6 {
 
 .navbar-brand .navbar-item img {
     --bulma-navbar-item-img-max-height: 12lh;
+}
+
+.navbar a.navbar-item.is-active {
+    background-color: var(--ohs-color-accent-pink);
+    color: var(--ohs-color-primary);
 }
 
 @media screen and (max-width: 1023px) {
