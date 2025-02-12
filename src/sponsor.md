@@ -12,6 +12,7 @@ Edinburgh, Scotland ● May 30-31, 2025 ● University of Edinburgh
     <p>
         <a href="#sponsorship-levels" class="button">Sponsorship levels</a>
         <a href="#headline-sponsors" class="button">Headline sponsors</a>
+        <a href="https://secure.lglforms.com/form_engine/s/BSGsxCH2nm68Vkq1l6nD0g" class="button">Donate now</a>
     </p>
 </blockquote>
 
