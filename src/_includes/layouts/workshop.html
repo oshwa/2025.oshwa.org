@@ -1,0 +1,38 @@
+---
+layout: layouts/base.html
+---
+<div class="event talk content my-6">
+    <h1 class="event-title">{{title}}</h1>
+    <p class="event-time">
+        <span class="event-time-span">
+            {% formatEventDates start, end, timezone %}
+            {% if location %}<span class="event-location">, {{location}}</span>{% endif %}
+        </span>
+        <a class="event-add-to-calendar" href="{% eventGoogleCalendarLink title, link, location, start, end, timezone %}" target="_blank">Add to Calendar</a>
+    </p>
+
+    {% if eventbrite %}
+        <p class="has-text-centered my-6">
+            <a class="button" href="{{eventbrite}}" target="_blank">Registration</a>
+        </p>
+    {% endif %}
+    <p class="content event-content">{{content}}</p>
+    <p class="event-presenters">
+        {% for presenter in presenters %}
+            <div class="cool-person">
+                <img src="{{ presenter.image | default: "/static/images/speaker-placeholder.webp"}}" class="has-outlined-shadow">
+                <div>
+                    <h3>{{presenter.name}}</h3>
+                    <p>{{presenter.bio}}</p>
+                    {% if presenter.links %}
+                    <ul class="links">
+                        {% for link in presenter.links %}
+                            <li><a href="{{link.url}}" target="_blank">{{link.title}}</a></li>
+                        {% endfor %}
+                    </ul>
+                    {% endif %}
+                </div>
+            </div>
+        {% endfor %}
+    </p>
+</div>

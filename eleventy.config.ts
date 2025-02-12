@@ -25,19 +25,36 @@ export default function (eleventyConfig: any) {
 
     const eventDateFormat = "YYYY-M-D h:mm A";
 
+    const startDateSorter = (a: any, b: any) => {
+        const aDate = dayjs(a.data.start, eventDateFormat);
+        const bDate = dayjs(b.data.start, eventDateFormat);
+        return aDate.unix() - bDate.unix();
+    }
+
     eleventyConfig.addCollection("events", (collectionApi: any) => {
         return collectionApi
             .getFilteredByTag("events")
-            .sort((a: any, b: any) => {
-                const aDate = dayjs(a.start, eventDateFormat);
-                const bDate = dayjs(b.start, eventDateFormat);
-                return bDate.unix() - aDate.unix();
-            });
+            .sort(startDateSorter);
+    });
+    eleventyConfig.addCollection("talks", (collectionApi: any) => {
+        return collectionApi
+            .getFilteredByTag("talks")
+            .sort(startDateSorter);
+    });
+    eleventyConfig.addCollection("workshops", (collectionApi: any) => {
+        return collectionApi
+            .getFilteredByTag("workshops")
+            .sort(startDateSorter);
     });
 
-    eleventyConfig.addFilter("formatDate", (date: Date, template: string, timezone: string = "America/New_York") => {
+    eleventyConfig.addFilter("formatDate", (date: Date, template: string, timezone: string = "Europe/London") => {
         // Reference: https://day.js.org/docs/en/display/format
         const d = dayjs.tz(date, timezone);
+        return d.format(template);
+    });
+
+    eleventyConfig.addFilter("formatEventDate", (date: Date, template: string, timezone: string = "Europe/London") => {
+        const d = dayjs.tz(date, eventDateFormat, timezone);
         return d.format(template);
     });
 

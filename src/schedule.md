@@ -1,29 +1,29 @@
 ---
 layout: layouts/page.html
-title: Speak at the Open Hardware Summit
+title: 2025 Open Hardware Summit Schedule
 ---
 
 # Schedule
 
-## May 2nd
+OHS 2025 will take place on **Friday, May 30th** and **Saturday, May 31st** at [The Nucleus Building, The University of Edinburgh][nucleus-building].
 
-{% assign events = collections.events %}
-{% for event in events %}
-<div class="columns event-list-item">
-  <div class="column">
-    <a class="title is-4 is-family-display" href="{{event.url}}">{{event.data.title}}</a>
-    <p class="subtitle">{{event.data.presenter}}</p>
-    <p class="subtitle my-1">{% formatEventTimes event.data.start, event.data.end, event.data.timezone %}</p>
-    <p class="subtitle">{{event.data.location}}</p>
-    <p>{{event.content}}</p>
-    <p class="my-4">
-      <a href="{{event.url}}">More details</a>
-    </p>
-  </div>
+[nucleus-building]: https://science-engineering.ed.ac.uk/nucleus-building
+
+<div class="lil-guy is-right">
+    <img src="/static/images/lil-guy-6-color.svg">
+    <div class="big-quote has-yellow-outlined-shadow">
+        <p>Talks will happen on <strong>Friday, May 30th</strong>.</p>
+        <p>
+            <a href="/talks" class="button">Talks</a>
+        </p>
+    </div>
 </div>
-{% endfor %}
-
-
-## May 3th
-
-## May 4th
+<div class="lil-guy is-left">
+    <img src="/static/images/lil-guy-1-color.svg">
+    <div class="big-quote  has-yellow-outlined-shadow">
+        <p>Workshops will happen on <strong>Saturday, May 31st</strong>.</p>
+        <p>
+            <a href="/workshops" class="button">Workshops</a>
+        </p>
+    </div>
+</div>

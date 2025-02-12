@@ -1,0 +1,34 @@
+---
+layout: layouts/base.html
+---
+
+<div class="talks content my-6">
+    {{ content }}
+</div>
+
+<div class="schedule">
+  {% for event in collections.talks %}
+  <div id="{{event.fileSlug}}" class="columns schedule-event {% if event.data.plenary %}is-plenary{% endif %} {% if event.data.break %} is-break {% endif %}">
+    <div class="column is-one-fifth event-time">
+      <a class="event-start-time" href="#{{event.fileSlug}}">
+        {{event.data.start | formatEventDate: "h:mm A"}}
+      </a>
+    </div>
+    <div class="column">
+      {% if event.data.plenary != true and event.data.break != true %}
+        <a class="event-title" href="{{event.url}}">{{event.data.title}}</a>
+      {% else %}
+        <p class="event-title">{{event.data.title}}</p>
+      {% endif %}
+
+      <p class="event-presenter">{{event.data.presenter}}</p>
+
+      {% if event.data.plenary != true and event.data.break != true %}
+        <p class="my-4">
+          <a href="{{event.url}}">More details</a>
+        </p>
+      {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>

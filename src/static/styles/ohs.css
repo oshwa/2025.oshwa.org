@@ -183,12 +183,18 @@ main a {
     padding: 3rem;
     background-color: var(--ohs-color-accent-pink);
     border: 3px solid var(--ohs-color-primary);
-}
 
-.big-quote .button {
-    border-radius: 0;
-}
+    .button {
+        border-radius: 0;
+    }
 
+    strong {
+        font-family: var(--ohs-family-display);
+        font-weight: var(--bulma-weight-extrabold);
+        background: transparent;
+        outline: none;
+    }
+}
 
 @media screen and (max-width: 1023px) {
     .big-quote {
@@ -213,6 +219,7 @@ main a {
     max-width: 15rem;
     max-height: 10rem;
     flex-shrink: 1;
+    background-color: var(--ohs-color-primary);
 }
 
 .cool-person ul.details {
@@ -347,5 +354,112 @@ main a {
     .content blockquote, .content blockquote:not(:last-child) {
         padding: 1.5rem;
         max-width: calc(100% - 1rem);
+    }
+}
+
+
+/* Schedule pages (talks, workshops, etc.) */
+
+
+.schedule {
+    .schedule-event {
+        --title-line-height: 1.2;
+
+        .event-time {
+            display: grid;
+            place-content: start center;
+            gap: 0.1em;
+            text-align: center;
+            line-height: var(--title-line-height);
+
+            a {
+                color: var(--fg);
+                background-color: transparent;
+                outline: none;
+            }
+
+            .event-start-time {
+                font-family: var(--ohs-family-display);
+                font-size: var(--bulma-size-3);
+                font-weight: var(--bulma-weight-extrabold);
+                line-height: var(--title-line-height);
+            }
+
+            .event-end-time {
+            }
+
+            .event-location {
+                color: var(--ohs-color-primary);
+                background-color: var(--ohs-color-accent-yellow);
+            }
+        }
+
+        .event-title {
+            font-family: var(--ohs-family-display);
+            font-size: var(--bulma-size-3);
+            font-weight: var(--bulma-weight-extrabold);
+            line-height: var(--title-line-height);
+        }
+
+        a.event-title {
+            color: var(--fg);
+            outline: none;
+            background-color: transparent;
+            text-decoration: underline;
+            text-decoration-color: var(--ohs-color-accent-pink);
+            text-decoration-thickness: 0.1em;
+        }
+
+        .event-presenter {
+            font-size: var(--bulma-size-5);
+        }
+    }
+
+    .is-plenary, .is-break {
+        background-color: var(--bg);
+        color: var(--fg);
+        --bulma-text: var(--fg);
+    }
+
+    .is-plenary {
+        --bg: var(--ohs-color-accent-pink);
+        --fg: var(var(--ohs-color-primary))
+    }
+
+    .is-break {
+        --bg: var(--ohs-color-primary);
+        --fg: white;
+    }
+}
+
+
+/* Event detail page (talks, workshops, etc.) */
+
+.event {
+    .event-title {
+        font-family: var(--ohs-family-display);
+        font-size: var(--bulma-size-3);
+        font-weight: var(--bulma-weight-extrabold);
+        line-height: var(--title-line-height);
+        text-decoration: underline;
+        text-decoration-color: var(--ohs-color-accent-pink);
+        text-decoration-thickness: 0.1em;
+    }
+
+    .event-presenter {
+        font-size: var(--bulma-size-5);
+    }
+
+    .event-time {
+        display: flex;
+        align-items: center;
+        line-height: var(--title-line-height);
+
+        .event-time-span {
+            flex: 1;
+            font-family: var(--ohs-family-display);
+            font-size: var(--bulma-size-5);
+            font-weight: var(--bulma-weight-extrabold);
+        }
     }
 }
