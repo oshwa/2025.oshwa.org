@@ -203,6 +203,10 @@ main a {
     }
 }
 
+.home .big-quote {
+    margin-block: 5rem;
+}
+
 /* Home page / speaker layouts for people */
 
 .cool-person {

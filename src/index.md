@@ -3,27 +3,22 @@ layout: layouts/home.html
 title: 2025 Open Hardware Summit
 ---
 
-# The Open Hardware Summit is coming to Scotland!
+# Open Hardware Summit comes to Scotland on May 30th, 2025!
 
-<div class="lil-guy is-right">
-    <img src="/static/images/lil-guy-6-color.svg">
-    <div class="big-quote has-yellow-outlined-shadow">
-        <p>Tickets are now on sale! Snag yours early for a discount. Also, our call for proposals for talks, workshops, and exhibitors is still open!</p>
-        <p>
-            <a href="https://www.eventbrite.ca/e/1067611086499/?aff=oddtdtcreator " target="_blank" class="button">Get tickets</a>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiuWtUClyQ2Aj-CBFwZacpfL9xxgG_ZA8ImF0SF9sT2-sqKA/viewform" target="_blank" class="button">Submit a proposal</a>
-        </p>
-    </div>
+
+<div class="big-quote has-yellow-outlined-shadow">
+    <p>Tickets are now on sale, snag yours early for a discount! In the meantime, check out our schedule of talks and workshops to get excited.</p>
+    <p>
+        <a href="https://www.eventbrite.ca/e/1067611086499/?aff=oddtdtcreator " target="_blank" class="button">Get tickets</a>
+        <a href="/schedule" class="button">Schedule</a>
+    </p>
 </div>
 
 <div class="lil-guy">
     <img src="/static/images/lil-guy-1-color.svg">
     <div>
         <p>
-            We are beyond excited to share our new design for this year from <strong>Tanya Brassie</strong> of <a href="https://innerloop.press/" target="_blank">Inner Loop Press</a>! Check out their work!
-        </p>
-        <p>
-            <strong>And</strong> we are going to be coming to Edinburgh on <em>May 30th & 31st, 2025</em>! Our <a href="https://docs.google.com/forms/d/e/1FAIpQLSeiuWtUClyQ2Aj-CBFwZacpfL9xxgG_ZA8ImF0SF9sT2-sqKA/viewform" target="_blank">call for proposals</a> for talks, workshops, and exhibitors is currently open and we’re also building an amazing team of on-the-ground helpers and teammates, read on for more details!
+            OHS 2025 will take place in Edinburgh on <strong>May 30th & 31st, 2025</strong>! We have an incredible line up of <a href="/schedule">speakers, talks, and workshops</a> with more to come. Looking to get involved? We’re <strong>also</strong> building an amazing team of on-the-ground helpers and teammates, read on for more details!
         </p>
     </div>
 </div>
@@ -48,6 +43,15 @@ title: 2025 Open Hardware Summit
         </p>
         <p>
             Sound cool to you? <a href="#get-involved">get involved</a>, <a href="https://oshwa.us19.list-manage.com/subscribe?u=3e1619d377d5a6c361ef3292b&id=ca147d8610" target="_blank">sign up for our newsletter</a>, or <a href="mailto:summit@oshwa.org" target="_blank">drop us an email</a>!
+        </p>
+    </div>
+</div>
+
+<div class="lil-guy is-right">
+    <img src="/static/images/lil-guy-6-color.svg">
+    <div>
+        <p>
+            This year's lovely and vibrant visual design was created by <strong>Tanya Brassie</strong> of <a href="https://innerloop.press/" target="_blank">Inner Loop Press</a>! Check out their work!
         </p>
     </div>
 </div>
