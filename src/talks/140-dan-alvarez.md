@@ -6,6 +6,7 @@ presenter: Dan Alvarez
 presenters:
 - name: Dan Alvarez
   bio: "Dan Alvarez, Electronic Engineer, specializes in embedded systems. He contributed to Guatemala’s first satellite, QUETZAL-1, working on attitude control and ground operations. Now volunteering on QUETZAL-2 at UVG’s Aerospace Lab, he co-authored Hope from the Sky: The Story of the First Guatemalan Satellite."
+  image: ../dan_alvarez_headshot.webp
   links:
   - title: GitHub
     url: https://github.com/danalvarez

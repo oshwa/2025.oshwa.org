@@ -6,6 +6,7 @@ presenter: Mike Coats
 presenters:
 - name: Mike Coats
   bio: "Mike is an IT Manager with a background in software development. He is an active-travel advocate, a citizen activist and an unending tinkerer of all things hardware and software."
+  image: ../mike_coats_headshot.webp
   links:
   - title: Fediverse
     url: https://mikecoats.social/@mike

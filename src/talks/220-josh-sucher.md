@@ -5,6 +5,7 @@ end: 2025-5-30 6:10 PM
 presenter: Josh Sucher
 presenters:
 - name: Josh Sucher
+  image: ../josh_sucher_headshot.webp
 ---
 
 Description coming soon!

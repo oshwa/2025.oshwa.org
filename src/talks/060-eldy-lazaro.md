@@ -6,6 +6,7 @@ presenter: Eldy S. Lazaro Vasquez, Xin Wen, Nefeli Hadjiyiannis, Mirela Alistar,
 presenters:
 - name: Eldy S. Lazaro Vasquez, Xin Wen, Nefeli Hadjiyiannis, Mirela Alistar, Laura Devendorf, Michael Rivera
   bio: "We're a collaborative research team spanning three labs at the ATLAS Institute at CU Boulder. We work on materials and open-source tools for sustainable smart textiles development."
+  image: ../eldy_lazaro_headshot.webp
 ---
 
 Description coming soon!

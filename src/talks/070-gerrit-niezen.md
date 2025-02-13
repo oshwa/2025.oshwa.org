@@ -6,6 +6,7 @@ presenter: Gerrit Niezen
 presenters:
 - name: Gerrit Niezen
   bio: "Gerrit Niezen (PhD in Industrial Design, MEng in Computer Engineering) is the co-founder of LabCrafter, a company that develops and sells open science hardware. He also volunteers with AMYBO.org, a non-profit community exploring microbial protein fermentation as a sustainable food source."
+  image: ../gerrit_niezen_headshot.webp
   links:
   - title: Fediverse
     url: https://merveilles.town/@gendor

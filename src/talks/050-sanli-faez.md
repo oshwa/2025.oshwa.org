@@ -6,6 +6,7 @@ presenter: Sanli Faez
 presenters:
 - name: Sanli Faez
   bio: "I am an associate professor at the Physics department of Utrecht University, and open science lead at the Netherlands climate research initiative KIN. I contribute to an accessible and sustainable academia by advocating for Open Science and making Open-source Hardware."
+  image: ../sanli_faez_headshot.webp
   links:
   - title: GitHub
     url: https://github.com/SanliFaez/
