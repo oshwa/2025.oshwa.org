@@ -57,34 +57,6 @@ title: 2025 Open Hardware Summit
 </div>
 
 
-
-## Get involved
-
-Here’s what we’re looking for:
-
-- People who can help us reach the weird, wonderful, and technical open source, Hacker, DIY, tech/art and maker community in **Edinburgh**, **Glasgow**, and all around the UK and Europe.
-- People who are connected with makerspaces, hackerspaces, labs or other creative spaces that can help spread the word all around the world.
-- People who are excited about reaching diverse and underrepresented populations.
-- Spaces interesting in hosting workshops, parties, community gatherings and other happenings.
-- Seasoned open source enthusiast **and** people who want to be involved in open source but aren’t sure how. No experience required.
-- Be able to attend (or contribute to asynchronously) to meetings once a month, usually Wednesday mornings in US Eastern Time (`UTC-4`) or around 5 PM GMT (`UTC+1`).
-
-We do not require that all presentations, organizers, or helpers be open source certified or contribute to open source projects, but only that you are enthusiastic about sharing and learning about open source work.
-
-Here's what you'll get:
-
-- Connected with some of the world's most active open source communities. Past sponsors have included Sparkfun, Arduino, Digi-Key, and other key players in the hardware community.
-- A free or discounted ticket to the event.
-- Free opportunity to exhibit your work to over 300 people.
-- A hand in forming the vision for one of the largest Open Source events in 2025.
-- An unforgettable experience with cool people from around the world!
-- An opportunity to connect globally with people working in your field- be it academically, recreationally, or within the industry.
-
-If you are interested in helping out, please email us at [hello@leecyb.org](mailto:hello@leecyb.org).
-
-See you in Edinburgh!
-
-
 ## The team
 
 <div class="cool-person">
