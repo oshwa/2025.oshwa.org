@@ -37,8 +37,8 @@ Here are some nearby hotel options, note these rates are not specific to the sum
 * [University Rooms](https://www.universityrooms.com/en-GB/city/edinburgh/home/?gad_source=1&gclid=CjwKCAiAzvC9BhADEiwAEhtlN4K-lEDOfIppw0L5YymFqjgFwKAKjcgBabgXtjPAH0ap_nbOMvNoLRoCry4QAvD_BwE): ~30-300 GBP per night
 * [The Scott](https://www.guestreservations.com/the-scott/booking?utm_source=google&utm_medium=cpc&utm_campaign=991006015&gad_source=1&gclid=CjwKCAiArKW-BhAzEiwAZhWsIOml1aRMmvq2RoskS3fjNJs3fGQU0kaBN2OuSdU5akapiQzQnEyunBoCAlYQAvD_BwE&ctTriggered=true): ~200 GBP per night
 * [KM Hotel](https://www.guestreservations.com/km-central/booking?utm_source=google&utm_medium=cpc&utm_campaign=991006018&gad_source=1&gclid=CjwKCAiArKW-BhAzEiwAZhWsIHa9owJF7Xf7bVW2livVj4NXAjLUv-5xf0WNXHCJhpJqsi9cfd4Q7RoCsgYQAvD_BwE): ~160 GBP per night
-* [The Scholar] (https://www.uoecollection.com/hotels/the-scholar/): ~135 GBP per night
-* [Radisson Blu Hotel] (https://www.radissonhotels.com/en-us/hotels/radisson-blu-edinburgh?facilitatorId=RHGSEM&cid=a%3Aps+b%3Aggl+c%3Aemea+i%3Abrand+e%3Ardb+d%3Aukirwe+r%3Abrt+f%3Aen-US+g%3Aho+h%3AGBEDICTR+v%3Acf&gad_source=1&gclid=CjwKCAiArKW-BhAzEiwAZhWsIMab4-s--Pe-WBi_J4TvqaW1l0O9U4P3980VPqHVR1kDdNo4UDO1thoCWiYQAvD_BwE&gclsrc=aw.ds): ~100 GBP per night
+* [The Scholar](https://www.uoecollection.com/hotels/the-scholar/): ~135 GBP per night
+* [Radisson Blu Hotel](https://www.radissonhotels.com/en-us/hotels/radisson-blu-edinburgh?facilitatorId=RHGSEM&cid=a%3Aps+b%3Aggl+c%3Aemea+i%3Abrand+e%3Ardb+d%3Aukirwe+r%3Abrt+f%3Aen-US+g%3Aho+h%3AGBEDICTR+v%3Acf&gad_source=1&gclid=CjwKCAiArKW-BhAzEiwAZhWsIMab4-s--Pe-WBi_J4TvqaW1l0O9U4P3980VPqHVR1kDdNo4UDO1thoCWiYQAvD_BwE&gclsrc=aw.ds): ~100 GBP per night
 
 ## COVID
 
