@@ -6,7 +6,7 @@ presenter: Carson Holgate
 presenters:
 - name: Carson Holgate
   bio: "Carson is a software engineer who moonlights as a textile artist and YouTuber."
-  image: .../carson_holgate_headshot.jpeg
+  image: src/talks/carson_holgate_headshot.jpeg
   links:
   - title: YouTube
     url: https://www.youtube.com/@KnitFactoryImpl
