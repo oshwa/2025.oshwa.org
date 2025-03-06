@@ -12,6 +12,8 @@ presenters:
     url: https://www.eventbrite.com/e/1247699204909?aff=oddtdtcreator
   - title: Site
     url: https://www.ribbitnetwork.org/
+    -title: GitHub
+    url: https://ribbit-network.github.io/ribbit-network-frog-hardware/. 
     -title: LinkedIn
     url: https://www.linkedin.com/in/keenanjohnson/
     -title: Bluesky
@@ -20,6 +22,6 @@ presenters:
 
 "We are going to build and explore customizing open-source, 3D printed greenhouse gas sensors! These sensors provide a fun STEAM learning experience for those curious about deploying IoT devices in the real world. During the workshop, you'll learn about 3D printing with recycled materials for outdoor applications, electronics wiring and selection, embedded IoT software based on MicroPython, and deploying responsible electronics for climate monitoring.
 
-We will follow the instructions found here: https://ribbit-network.github.io/ribbit-network-frog-hardware/. 
+We will follow the instructions found on GitHub
 
 The workshop is extremely hands on and everyone will build their own Frog sensor they can take and deploy in the world following the workshop."
