@@ -13,7 +13,7 @@ Tickets are not available yet, but we'll have more details to share shortly! In 
 
 ## Location
 
-The first day will take place at **Concordia University Hall Building**:
+The first day will take place at **the moon**:
 
 ```
 Concordia University Hall Building
