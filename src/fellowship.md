@@ -31,7 +31,6 @@ For the ninth year, we are excited to offer up to **ten Open Hardware Fellowship
         </p>
     </div>
     </div>
-</div>
 <div class="cool-person">
     <img src="/static/images/DeannaGelosi-square.png" class="has-outlined-shadow">
     <div>
@@ -43,7 +42,7 @@ For the ninth year, we are excited to offer up to **ten Open Hardware Fellowship
 
 At CU Boulder, she is a member of the Unstable Design Lab, and her work is supported by the National Science Foundation (NSF) and the ARCS Foundation. Deanna holds a BA in Physics and an MS in Computer Science from the University of California, Berkeley.
         </p>
-        
+     </div>
     </div>
 <div class="cool-person">
     <img src="/static/images/Sabine-welch.jpg" class="has-outlined-shadow">
@@ -54,7 +53,7 @@ At CU Boulder, she is a member of the Unstable Design Lab, and her work is suppo
         <p>
            bleeptrack / Sabine Wieluch is a creative technologist and generative artist exploring different materials, techniques, and digital fabrication tools like pen plotters, CNC mills, and laser cutters. Her work has been exhibited internationally in shows like Scene Change at ZKM Karlsruhe and Protest! gestalten at Museum Ulm, and she shares her projects as open-source. In addition to her artistic practice, she teaches at universities, gives talks and workshops on creative coding and actively contributes to the open-source community.
         </p>
-    </div>
+      </div>
       </div>
 <div class="cool-person">
     <img src="/static/images/cris-dezi.JPG" class="has-outlined-shadow">
