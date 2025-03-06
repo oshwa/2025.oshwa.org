@@ -6,6 +6,13 @@ location: Room 2
 presenter: Sanguinette
 presenters:
 - name: Sanguinette
+- bio: Lion Sanguinette is an inustrial designer driven by sustainability, open-source principles, and accessible design. He focuses on creating products that are repairable, adaptable, and resource-efficient, aiming to challenge traditionel consumer habits.
+ - title: Personal Instagram
+    url: https://www.instagram.com/Lion_sanguinette/
+  - title: Opencyclone
+    url: https://www.instagram.com/os_systems/
 ---
 
-Description coming soon!
+"The Opensource Workshop is an invitation to explore open-source hardware through hands-on making and shared learning. Together, we build a modular, repairable vacuum cleaner- questioning how everyday objects can be designed for longevity rather than disposability. 
+The workshop is not only about the assembly of a machine, but to understand how things work, how they break, and how they can be adapted to individual needs.
+(Everyone gets to keep an Opencyclone at the end.)"
