@@ -19,6 +19,7 @@ For the ninth year, we are excited to offer up to **ten Open Hardware Fellowship
            Shannon Hicks is an electrical engineer at Stroud Water Research Center in Pennsylvania where she designs and builds a variety of environmental sensor data logger systems using open source hardware and software.  She's the co-founder of EnviroDIY, an online community of users who share ideas and solutions for low-cost environmental monitoring.  Shannon is also the developer of the Mayfly Data Logger, an open-source, Arduino-based board that makes it easy to build monitoring stations with sensors and telemetry modules.  She has taught dozens of workshops to a wide range of audiences about how to use open-source tools for environmental monitoring and research.  
         </p>
     </div>
+    </div>
 <div class="cool-person">
     <img src="/static/images/marjia-siddik.jpeg" class="has-outlined-shadow">
     <div>
@@ -32,6 +33,7 @@ For the ninth year, we are excited to offer up to **ten Open Hardware Fellowship
          - title: LinkedIn
     url: https://linkedin.com/in/marjiasdk 
     </div>
+</div>
 </div>
 <div class="cool-person">
     <img src="/static/images/DeannaGelosi-square.png" class="has-outlined-shadow">
@@ -50,6 +52,7 @@ At CU Boulder, she is a member of the Unstable Design Lab, and her work is suppo
   - title: Instagram
     url: https://www.instagram.com/deannagelosi/
     </div>
+    </div>
 <div class="cool-person">
     <img src="/static/images/Sabine-welch.jpg" class="has-outlined-shadow">
     <div>
@@ -60,6 +63,7 @@ At CU Boulder, she is a member of the Unstable Design Lab, and her work is suppo
            bleeptrack / Sabine Wieluch is a creative technologist and generative artist exploring different materials, techniques, and digital fabrication tools like pen plotters, CNC mills, and laser cutters. Her work has been exhibited internationally in shows like Scene Change at ZKM Karlsruhe and Protest! gestalten at Museum Ulm, and she shares her projects as open-source. In addition to her artistic practice, she teaches at universities, gives talks and workshops on creative coding and actively contributes to the open-source community.
         </p>
     </div>
+      </div>
       </div>
 <div class="cool-person">
     <img src="/static/images/cris-dezi.JPG" class="has-outlined-shadow">
