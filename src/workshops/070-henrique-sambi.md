@@ -4,7 +4,7 @@ start: 2025-5-31 10:00 AM
 end: 2025-5-31 11:00 AM
 location: Room 3
 presenter: "Henrique Sambi, Caroline Yan Zheng"
-Henrique Sambi is an interactive designer Currently pursuing a master’s degree at KTH, Henrique is exploring technologies that interact closely with our bodies. Caroline Yan Zheng is a designer and researcher currently a Digital Futures postdoc fellow at KTH Royal Institute of Technology. 
+
 ---
 
 "During the workshop, we invite participants to co-create soft robotics touch patterns, thinking about the texture, the placement on the body, the rhythm, and the strength. 
