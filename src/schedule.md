@@ -17,7 +17,7 @@ title: 2025 Open Hardware Summit Schedule
 <div class="lil-guy is-left">
     <img src="/static/images/lil-guy-1-color.svg">
     <div class="big-quote  has-yellow-outlined-shadow">
-        <p>Workshops will happen on <strong>Saturday, May 31st</strong> in Edinburgh, more details on the venue are coming shortly!</p>
+        <p>Workshops will happen on <strong>Saturday, May 31st</strong> <a href="https://science-engineering.ed.ac.uk/nucleus-building" target="_blank">The Nucleus Building, The University of Edinburgh</a>.</p>
         <p>
             <a href="/workshops" class="button">Workshops</a>
         </p>
