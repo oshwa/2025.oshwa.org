@@ -16,8 +16,8 @@ presenters:
     url: https://www.youtube.com/c/katzcreates
 ---
 
-"Come learn how you can use digital design and fabrication tools and techniques to unlock your inner ceramicist, even if you've never touched clay before!
+Come learn how you can use digital design and fabrication tools and techniques to unlock your inner ceramicist, even if you've never touched clay before!
 
 Bring your hands, your computer, and your creativity and get ready to dive in to your next clay design. In this workshop you'll learn about ceramics basics, as well as important material aspects that influence how you can use technology to improve your practice. We'll go over examples of the ways you use 3D printing and laser cutting to create custom tools, as well as how to design and implement unique, custom forms and moulds to create ceramic pieces otherwise impossible with hands alone!
 
-This workshop will be part theory, part planning, and part making! Get your hands dirty and experiment with clay a bit, or start designing your future piece in the CAD software of your choice. There will be some time for one on one questions and instruction, and there may be space to continue working and tinkering after the workshop as well! (3D printer availibility TBD)"
+This workshop will be part theory, part planning, and part making! Get your hands dirty and experiment with clay a bit, or start designing your future piece in the CAD software of your choice. There will be some time for one on one questions and instruction, and there may be space to continue working and tinkering after the workshop as well!
