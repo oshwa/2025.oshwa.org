@@ -8,7 +8,7 @@ bio: Shortwave Collective is an international group of creative practitioners fr
 
 ---
 
-"Build an Open Wave-Receiver with Shortwave Collective
+Build an Open Wave-Receiver with Shortwave Collective
 
 Come and make a radio receiver with us! Open Wave-Receivers are self-powered radio receivers built from commonly available components that allow us to hear what’s happening in the invisible electromagnetic world around us.
 
@@ -26,4 +26,4 @@ We encourage you to bring / scavenge some scraps to customise your radio:
 
 - We'll have audio devices on hand to test with, but feel free to bring one of your own.
 
-Shortwave Collective is an international, feminist artist group, interested in creative uses of radio. We meet regularly to discuss feminist approaches to amateur radio and the radio spectrum as artistic material, sharing resources, considering DIY approaches and inclusive structures."
+Shortwave Collective is an international, feminist artist group, interested in creative uses of radio. We meet regularly to discuss feminist approaches to amateur radio and the radio spectrum as artistic material, sharing resources, considering DIY approaches and inclusive structures.
