@@ -30,10 +30,6 @@ For the ninth year, we are excited to offer up to **ten Open Hardware Fellowship
            Marjia Siddik is a third-year Computer Science student at Dublin City University with a keen interest in AI safety, governance, and open-source hardware. She first became involved in open-source hardware through mentoring students at CoderDojo, where she introduced young learners to hands-on programming and hardware projects. This experience sparked her passion for accessible, community-driven innovation in technology. She has since expanded her involvement by exploring open-source tools for AI research and development. Beyond her technical interests, Marjia has published research, founded startups, and engaged in social impact initiatives. She is also a writer and has self-published her poetry book.
         </p>
     </div>
-    ---
-         - title: LinkedIn
-    url: https://linkedin.com/in/marjiasdk 
-    ---
     </div>
 </div>
 </div>
@@ -48,13 +44,7 @@ For the ninth year, we are excited to offer up to **ten Open Hardware Fellowship
 
 At CU Boulder, she is a member of the Unstable Design Lab, and her work is supported by the National Science Foundation (NSF) and the ARCS Foundation. Deanna holds a BA in Physics and an MS in Computer Science from the University of California, Berkeley.
         </p>
-        ---
-         links:
-  - title: Website
-    url:  https://deannagelosi.com
-  - title: Instagram
-    url: https://www.instagram.com/deannagelosi/
-    ---
+        
     </div>
     </div>
 <div class="cool-person">
@@ -83,13 +73,5 @@ Her artistic exploration of (trans)feminist activism and hacker culture is expre
 With Giulia Tomasello she co-founded Bruixes_Lab, a nomadic laboratory where biohacking and witchcraft rituals are performed to create speculative scenarios about pleasure and experimenting with DIY sensor circuits to hack the experience of arousal and decentralise the normative binaries of sexuality and bodies.
 They participated in TTT Conference in Malta, led workshops in Observatorio del Placer in BCN, Ars Elektronika in Linz, MU Hybrid Art House in Eindhoven, III Instrument Inventors in the Hague and much more..
         </p>
-        ---
-        links:
-  - title: Website
-    url:  https://cristinadezi.persona.co/
-  - title: Personal Instagram
-    url: https://www.instagram.com/christie.rd/
-     - title: Lab Instagram
-    url: https://www.instagram.com/bruixes_lab/
-    ---
+      
     </div>
