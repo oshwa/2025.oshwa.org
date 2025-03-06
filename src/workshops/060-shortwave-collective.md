@@ -9,7 +9,6 @@ bio: Shortwave Collective is an international group of creative practitioners fr
     url: https://www.eventbrite.co.uk/e/build-an-open-wave-receiver-with-shortwave-collective-tickets-1247668242299?aff=oddtdtcreator
   - title: Instagram
     url: https://www.instagram.com/alessia.romani_ar/
-  - title: FAST Lab LinkedIn
 ---
 
 "Build an Open Wave-Receiver with Shortwave Collective
