@@ -5,7 +5,7 @@ title: Attend the Open Hardware Summit
 
 # Attend the Open Hardware Summit
 
-Tickets are available on [Evenbrite](https://www.eventbrite.com/e/open-hardware-summit-2025-tickets-1067611086499?aff=oddtdtcreator), from as low as 0 dollars for virtual! We have a student/low rate for in-person attendees if needed, please email us. 
+Tickets are available on [Eventbrite](https://www.eventbrite.com/e/open-hardware-summit-2025-tickets-1067611086499?aff=oddtdtcreator), from as low as 0 dollars for virtual! We have a student/low rate for in-person attendees if needed, please email us. 
 You can also [sign up for our newsletter][newsletter], or [drop us an email][email].
 
 [newsletter]: https://oshwa.us19.list-manage.com/subscribe?u=3e1619d377d5a6c361ef3292b&id=ca147d8610
