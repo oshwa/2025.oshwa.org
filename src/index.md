@@ -18,7 +18,7 @@ title: 2025 Open Hardware Summit
     <img src="/static/images/lil-guy-1-color.svg">
     <div>
         <p>
-            OHS 2025 will take place in Edinburgh on <strong>May 30th & 31st, 2025</strong>! We have an incredible line up of <a href="/schedule">speakers, talks, and workshops</a> with more to come. Looking to get involved? We’re <strong>also</strong> building an amazing team of on-the-ground helpers and teammates, read on for more details!
+            OHS 2025 will take place in Edinburgh on <strong>May 30th & 31st, 2025</strong>! We have an incredible line up of <a href="/schedule">speakers, talks, and workshops</a> with more to come.
         </p>
     </div>
 </div>
