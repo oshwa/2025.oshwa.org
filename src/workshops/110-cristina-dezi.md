@@ -6,4 +6,4 @@ location: Room 3
 presenter: Cristina Dezi
 ---
 
-Description coming soon!
+During the workshop, we will dive into the world of cybernetic witchcraft and magical embroidery by discovering, through interactive open-source technologies (such as Arduino and Pure Data), the art of creating seals, symbols imbued with powerful intentions to evoke electronic spells of resistance and conduct new collective rituals. 
