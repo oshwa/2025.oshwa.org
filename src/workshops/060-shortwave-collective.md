@@ -5,6 +5,11 @@ end: 2025-5-31 4:00 PM
 location: Room 2
 presenter: Shortwave Collective
 bio: Shortwave Collective is an international group of creative practitioners from various backgrounds and disciplines (sound and radio art, activism, social science, media and artistic research) brought together by an interest in feminist practices and the radio spectrum. As a collective, we have a desire to learn together and to open a space to learn together-with-others as equal non-experts. We spend time in each other’s company making, testing, listening and sharing; sometimes ‘failing’, but more often laughing our way into serendipitous results that lead us to new practices and new situated ways of listening. Part of our feminist ethos is ‘learning through doing’. This is a way to de-mystify aspects of technology, which enables us to share our experiences more easily with each other, and with others. The collective’s approach aims to create an inclusive, collaborative, tech-based learning environment, one which acknowledges and attends to gendered education gaps and one that purposefully removes potential hurdles, such as unexplained components lists that assume knowledge.
+  - title: Sign Up
+    url: https://www.eventbrite.co.uk/e/build-an-open-wave-receiver-with-shortwave-collective-tickets-1247668242299?aff=oddtdtcreator
+  - title: Instagram
+    url: https://www.instagram.com/alessia.romani_ar/
+  - title: FAST Lab LinkedIn
 ---
 
 "Build an Open Wave-Receiver with Shortwave Collective
