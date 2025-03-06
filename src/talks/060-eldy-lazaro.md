@@ -9,4 +9,4 @@ presenters:
   image: ../eldy_lazaro_headshot.webp
 ---
 
-Description coming soon!
+We present our Open Source Biofiber Spinning Machine, a low-cost, desktop tool for prototyping fibers from biomaterials like gelatin and agar. Unlike traditional, costly fiber-spinning machines, this compact device enables accessible, sustainable fiber prototyping. Users can customize fiber properties for applications in traditional and smart textiles. By expanding material possibilities, it supports biobased, biodegradable, and compostable fibers. Beyond the machine, our project promotes accessibility and sustainability, providing tools and workflows to advance biomaterial exploration and sustainable textile design.
