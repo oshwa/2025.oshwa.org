@@ -5,7 +5,7 @@ title: Attend the Open Hardware Summit
 
 # Attend the Open Hardware Summit
 
-Tickets are not available yet, but we'll have more details to share shortly! In the meantime, [sign up for our newsletter][newsletter], or [drop us an email][email].
+Tickets are available on [Evenbrite](https://www.eventbrite.com/e/open-hardware-summit-2025-tickets-1067611086499?aff=oddtdtcreator), but we'll have more details to share shortly! In the meantime, [sign up for our newsletter][newsletter], or [drop us an email][email].
 
 [newsletter]: https://oshwa.us19.list-manage.com/subscribe?u=3e1619d377d5a6c361ef3292b&id=ca147d8610
 [email]: mailto:summit@oshwa.org
