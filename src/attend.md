@@ -13,26 +13,14 @@ Tickets are not available yet, but we'll have more details to share shortly! In 
 
 ## Location
 
-The first day will take place at **the moon**:
+Both days will take place at **The Nucleus Building**:
 
 ```
-Concordia University Hall Building
-1550 Blvd. De Maisonneuve Ouest,
-Montreal, Quebec
-H3G 2E9
-Metro: Guy-Concordia Station
+The Nucleus Building, University of Edinburgh
+Thomas Bayes Rd,
+Edinburgh, Scotland
+EH9 3FG
 ```
-
-The second day will take place at **LESPACEMAKER**:
-
-```
-LESPACEMAKER
-2875 Rue Hochelaga,
-Montréal, QC
-H2K 1K7
-Metro: Prefontaine Station
-```
-
 
 ## Virtual
 
@@ -45,10 +33,12 @@ During the summit, you can participate virtually by watching the livestream on o
 ## Hotels
 
 Here are some nearby hotel options, note these rates are not specific to the summit.
-* [Chez Swann](https://www.reservations.com/Hotel/hotel-chez-swann?rc-ar=05-01-2024&rc-de=05-02-2024&rc-ro=1&rc-lo=Montreal&rc-ppid=0&rc-rm=2): ~$244 CAD per night
-* [Hotel Vogue](https://www.reservations.com/hotel/loews-hotel-vogue-montreal?rc-ar=05-01-2024&rc-de=05-02-2024&rc-ro=1&rc-lo=Montreal&rc-ppid=0&rc-rm=2): ~$278 CAD per night
-* [Chateau Versailles](https://www.expedia.ca/Montreal-Hotels-Chateau-Versailles.h454388.Hotel-Information?chkin=2024-03-27&chkout=2024-03-28&x_pwa=1&rfrr=HSR&pwa_ts=1710361274812&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jYS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6058201&destination=Downtown%20Montreal%2C%20Montreal%2C%20Quebec%2C%20Canada&destType=MARKET&neighborhoodId=6058201&latLong=45.500561%2C-73.575729&sort=RECOMMENDED&top_dp=160&top_cur=CAD&semdtl=a111848848910.b1114034195126.g1kwd-186812256.e1c.m1Cj0KCQjwncWvBhD_ARIsAEb2HW_0BrI70bT2Yvc2pPDizgk65aU2rmI5FTZG4e_zDPmQiGffts5unI0aAhFZEALw_wcB.r155b0ee000af0d20138f36aa625e1326625a8ea06a981bdf97f7b4e35dbb10800.c1.j11002604.k1.d1618152667820.h1e.i1.l1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&gclid=Cj0KCQjwncWvBhD_ARIsAEb2HW_0BrI70bT2Yvc2pPDizgk65aU2rmI5FTZG4e_zDPmQiGffts5unI0aAhFZEALw_wcB&userIntent=&selectedRoomType=316104175&selectedRatePlan=385444316&searchId=7eeec890-e38e-4c18-b8f4-80db698fe345): ~$160 CAD per night
-* [Comfort Suites](https://www.expedia.ca/Montreal-Hotels-Chateau-Versailles.h454388.Hotel-Information?chkin=2024-03-27&chkout=2024-03-28&x_pwa=1&rfrr=HSR&pwa_ts=1710361274812&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jYS9Ib3RlbC1TZWFyY2g%3D&useRewards=false&rm1=a2&regionId=6058201&destination=Downtown%20Montreal%2C%20Montreal%2C%20Quebec%2C%20Canada&destType=MARKET&neighborhoodId=6058201&latLong=45.500561%2C-73.575729&sort=RECOMMENDED&top_dp=160&top_cur=CAD&semdtl=a111848848910.b1114034195126.g1kwd-186812256.e1c.m1Cj0KCQjwncWvBhD_ARIsAEb2HW_0BrI70bT2Yvc2pPDizgk65aU2rmI5FTZG4e_zDPmQiGffts5unI0aAhFZEALw_wcB.r155b0ee000af0d20138f36aa625e1326625a8ea06a981bdf97f7b4e35dbb10800.c1.j11002604.k1.d1618152667820.h1e.i1.l1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&semcid=CA.UB.GOOGLE.DT-c-EN.HOTEL&gclid=Cj0KCQjwncWvBhD_ARIsAEb2HW_0BrI70bT2Yvc2pPDizgk65aU2rmI5FTZG4e_zDPmQiGffts5unI0aAhFZEALw_wcB&userIntent=&selectedRoomType=316104175&selectedRatePlan=385444316&searchId=7eeec890-e38e-4c18-b8f4-80db698fe345): –$139 CAD per night
+* [Kick Ass Hostels](https://kickasshostels.co.uk/kick-ass-grassmarket/ )): ~48-270 GBP per night
+* [University Rooms](https://www.universityrooms.com/en-GB/city/edinburgh/home/?gad_source=1&gclid=CjwKCAiAzvC9BhADEiwAEhtlN4K-lEDOfIppw0L5YymFqjgFwKAKjcgBabgXtjPAH0ap_nbOMvNoLRoCry4QAvD_BwE): ~30-300 GBP per night
+* [The Scott](https://www.guestreservations.com/the-scott/booking?utm_source=google&utm_medium=cpc&utm_campaign=991006015&gad_source=1&gclid=CjwKCAiArKW-BhAzEiwAZhWsIOml1aRMmvq2RoskS3fjNJs3fGQU0kaBN2OuSdU5akapiQzQnEyunBoCAlYQAvD_BwE&ctTriggered=true): ~200 GBP per night
+* [KM Hotel](https://www.guestreservations.com/km-central/booking?utm_source=google&utm_medium=cpc&utm_campaign=991006018&gad_source=1&gclid=CjwKCAiArKW-BhAzEiwAZhWsIHa9owJF7Xf7bVW2livVj4NXAjLUv-5xf0WNXHCJhpJqsi9cfd4Q7RoCsgYQAvD_BwE): ~160 GBP per night
+* [The Scholar] (https://www.uoecollection.com/hotels/the-scholar/): ~135 GBP per night
+* [Radisson Blu Hotel] (https://www.radissonhotels.com/en-us/hotels/radisson-blu-edinburgh?facilitatorId=RHGSEM&cid=a%3Aps+b%3Aggl+c%3Aemea+i%3Abrand+e%3Ardb+d%3Aukirwe+r%3Abrt+f%3Aen-US+g%3Aho+h%3AGBEDICTR+v%3Acf&gad_source=1&gclid=CjwKCAiArKW-BhAzEiwAZhWsIMab4-s--Pe-WBi_J4TvqaW1l0O9U4P3980VPqHVR1kDdNo4UDO1thoCWiYQAvD_BwE&gclsrc=aw.ds): ~100 GBP per night
 
 ## COVID
 
