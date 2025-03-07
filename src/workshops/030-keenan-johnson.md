@@ -16,7 +16,6 @@ presenters:
     url: https://bsky.app/profile/keenanjohnson.bsky.social
     -GitHub
     url: https://ribbit-network.github.io/ribbit-network-frog-hardware/
-    eventbrite: https://www.eventbrite.com/e/build-a-frog-workshop-build-an-open-source-climate-sensor-tickets-1247699204909?aff=oddtdtcreator
 ---
 
 We are going to build and explore customizing open-source, 3D printed greenhouse gas sensors! These sensors provide a fun STEAM learning experience for those curious about deploying IoT devices in the real world. During the workshop, you'll learn about 3D printing with recycled materials for outdoor applications, electronics wiring and selection, embedded IoT software based on MicroPython, and deploying responsible electronics for climate monitoring.
