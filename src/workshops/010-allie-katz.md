@@ -14,6 +14,7 @@ presenters:
     url: https://bsky.app/profile/katzcreates.bsky.social
   - title: YouTube
     url: https://www.youtube.com/c/katzcreates
+eventbrite: https://www.eventbrite.co.uk/e/from-digital-to-traditional-how-to-use-technology-to-hack-handmade-ceramic-tickets-1270734794979?aff=oddtdtcreator
 ---
 
 Come learn how you can use digital design and fabrication tools and techniques to unlock your inner ceramicist, even if you've never touched clay before!
