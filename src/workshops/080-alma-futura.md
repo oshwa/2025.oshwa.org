@@ -12,6 +12,7 @@ links:
     url: https://www.instagram.com/nadiacampowoytuk/
   - title: Nadia Bluesky
     url: https://bsky.app/profile/nadiacw.bsky.social
+
 eventbrite: https://www.eventbrite.it/e/diy-intimate-and-reproductive-technologies-tickets-1258156462849?aff=oddtdtcreator
 ---
 
