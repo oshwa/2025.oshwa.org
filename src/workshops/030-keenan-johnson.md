@@ -13,7 +13,7 @@ presenters:
   - title: LinkedIn
     url: https://www.linkedin.com/in/keenanjohnson/
   - title: Blue Sky
-    url: https://bsky.app/profile/keenanjohnson.bsky.socialLinkedin:
+    url: https://bsky.app/profile/keenanjohnson.bsky.social
 ---
 
 We are going to build and explore customizing open-source, 3D printed greenhouse gas sensors! These sensors provide a fun STEAM learning experience for those curious about deploying IoT devices in the real world. During the workshop, you'll learn about 3D printing with recycled materials for outdoor applications, electronics wiring and selection, embedded IoT software based on MicroPython, and deploying responsible electronics for climate monitoring.
