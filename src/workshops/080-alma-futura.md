@@ -12,7 +12,7 @@ links:
     url: https://www.instagram.com/nadiacampowoytuk/
   - title: Nadia Bluesky
     url: https://bsky.app/profile/nadiacw.bsky.social
-eventbrite: https://www.eventbrite.it/e/diy-intimate-and-reproductive-technologies-tickets-1258156462849?aff=oddtdtcreator
+    eventbrite: https://www.eventbrite.it/e/diy-intimate-and-reproductive-technologies-tickets-1258156462849?aff=oddtdtcreator
 ---
 
 In this workshop we will explore DIY and feminist approaches to intimate and reproductive technologies (such as menstrual trackers, pregnancy tests, biosensors). We will speculate on and discuss how the open-source hardware community can craft these technologies collectively, and think about the ethical implications and feminist utopian possibilities of free, accessible and safe technologies for all bodies.
