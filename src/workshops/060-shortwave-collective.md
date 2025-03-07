@@ -15,8 +15,6 @@ presenters:
     url: https://mstdn.social/@ShortwaveCollective
   - title: Instagram
     url: https://www.instagram.com/shortwavecollective/
-    -title: BlueSky
-    url: https://twitter.com/SWaveCollective
 eventbrite: https://www.eventbrite.co.uk/e/build-an-open-wave-receiver-with-shortwave-collective-tickets-1247668242299?aff=oddtdtcreator
 
 ---
