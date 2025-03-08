@@ -6,7 +6,7 @@ presenter: Oliver Child
 presenters:
 - name: Oliver Child
   bio: "Oliver is a PhD Student at the University of Bristol exploring how people can scale ideas into physical devices to share with friends and accross the world. Oliver likes shapes, patterns, and machines"
-  image: ../oliver_child_headshot.webp
+  image: ../oliver-child-headshot.webp
   links:
   - title: Website
     url: https://oliverchild.com

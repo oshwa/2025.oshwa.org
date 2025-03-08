@@ -6,7 +6,7 @@ presenter: "Jerry de Vos & Santosh Ilamparuthi"
 presenters:
 - name: "Jerry de Vos & Santosh Ilamparuthi"
   bio: "We are part of Delft Open Hardware, an initiative to strengthen the open hardware movement in and around the Technical University of Delft."
-  image: ../jerry_santosh_headshot.webp
+  image: ../jerry-santosh-headshot.webp
   links:
   - title: Jerry de Vos on LinkedIn
     url: https://www.linkedin.com/in/jerrydevos/

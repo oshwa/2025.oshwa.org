@@ -5,7 +5,7 @@ end: 2025-5-30 6:10 PM
 presenter: Josh Sucher
 presenters:
 - name: Josh Sucher
-  image: ../josh_sucher_headshot.webp
+  image: ../josh-sucher-headshot.webp
   bio: Josh is a creative technologist and UX researcher based in Brooklyn. He plays with nostalgia, vintage tech, words, open data, cities and tidal estuaries.
   links:
   - title: Site

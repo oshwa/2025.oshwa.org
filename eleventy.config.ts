@@ -14,6 +14,9 @@ dayjs.extend(advancedFormat);
 
 export default function (eleventyConfig: any) {
     eleventyConfig.addPassthroughCopy("src/static");
+    eleventyConfig.addPassthroughCopy("src/**/*.png");
+    eleventyConfig.addPassthroughCopy("src/**/*.jpg");
+    eleventyConfig.addPassthroughCopy("src/**/*.jpeg");
     eleventyConfig.addPassthroughCopy("src/**/*.webp");
 
     eleventyConfig.setTemplateFormats([

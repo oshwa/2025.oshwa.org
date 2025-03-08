@@ -6,7 +6,7 @@ presenter: Alessia Romani
 presenters:
 - name: Alessia Romani
   bio: "Alessia Romani (PhD in Design, Politecnico di Milano) is a Postdoctoral Researcher at the Free Appropriate Sustainable Technology (FAST) Lab, Western University (Canada). Her research explores the interconnections between design, materials, 3D printing, and sustainability, bridging design and engineering through open-source technologies and materials."
-  image: ../alessia_romani_headshot.webp
+  image: ../alessia-romani-headshot.webp
   links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/alessiaromani93/

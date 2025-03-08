@@ -6,7 +6,7 @@ presenter: Bri Johns, Kitty & Andy Quitmeyer, Hubert Szczygiel
 presenters:
 - name: Bri Johns, Kitty & Andy Quitmeyer, Hubert Szczygiel
   bio: "We are an interdisciplinary team of ecologists, interactive field biology designers, and open source hardware activists creating open source biodiversity monitoring tools to help better understand the natural world around us."
-  image: ../mothbox_headshots.webp
+  image: ../mothbox-headshots.webp
   links:
   - title: Bri Johns on Bluesky
     url: https://bsky.app/profile/briannaljohns.bsky.social
