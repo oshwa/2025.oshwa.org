@@ -1,0 +1,22 @@
+<div class="sponsors my-6">
+    <img class="hr" src="/static/images/lil-guy-5-color.svg">
+
+    <h2 class="title is-3">Sponsors</h2>
+
+    {% for level in sponsors %}
+        <h3 class="title is-3">{{level.heading}}</h3>
+        <ul class="{{level.layout}}">
+            {% for sponsor in level.sponsors %}
+                <li>
+                    <a href="{{sponsor.url}}" target="_blank" title="{{sponsor.name}}">
+                        {% if sponsor.image %}
+                            <img decoding="async" src="/static/images/sponsors/{{sponsor.image}}" alt="{{sponsor.name}} logo">
+                        {% else %}
+                            {{sponsor.name}}
+                        {% endif %}
+                    </a>
+                </li>
+            {% endfor %}
+        </ul>
+    {% endfor %}
+</div>

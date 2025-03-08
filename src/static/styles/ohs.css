@@ -6,12 +6,12 @@
 @import "../fonts/jacquard-24/jacquard-24.css";
 
 :root {
-    --ohs-family-display: "BluuNext", Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
-    --ohs-family-text: "Office Code Pro", 'Nimbus Mono PS', 'Courier New', monospace;
-    --ohs-family-numeric-accent: "Jacquard 24", "BluuNext", Charter, 'Bitstream Charter', 'Sitka Text', Cambria, serif;
+    --ohs-family-display: "BluuNext", Charter, "Bitstream Charter", "Sitka Text", Cambria, serif;
+    --ohs-family-text: "Office Code Pro", "Nimbus Mono PS", "Courier New", monospace;
+    --ohs-family-numeric-accent: "Jacquard 24", "BluuNext", Charter, "Bitstream Charter", "Sitka Text", Cambria, serif;
 
     --ohs-color-primary: #615d59;
-    --ohs-color-accent-pink: #F8DBFF;
+    --ohs-color-accent-pink: #f8dbff;
     --ohs-color-accent-yellow: #ebe446;
 }
 
@@ -103,7 +103,6 @@ h6 {
 
 /* Special OHS-specific fun stuff */
 
-
 /* Highlights and such */
 
 main strong {
@@ -120,7 +119,6 @@ main a {
     background-color: var(--bg);
     outline: 0.15em solid var(--bg);
 }
-
 
 /* Navbar brand */
 
@@ -161,7 +159,6 @@ main a {
 .lil-guy.is-right {
     flex-direction: row-reverse;
 }
-
 
 @media screen and (max-width: 1023px) {
     .lil-guy {
@@ -245,10 +242,10 @@ main a {
     --bg: var(--ohs-color-accent-yellow);
 }
 
-.cool-person ul.details li+li {
+.cool-person ul.details li + li {
 }
 
-.cool-person ul.details li+li::before {
+.cool-person ul.details li + li::before {
     content: "·";
     margin-right: 1rem;
 }
@@ -268,7 +265,7 @@ main a {
         flex-direction: column;
     }
 
-    .cool-person ul.details li+li::before {
+    .cool-person ul.details li + li::before {
         content: none;
         margin-right: 0;
     }
@@ -276,7 +273,8 @@ main a {
 
 /* Shadow magic */
 
-.has-outlined-shadow, .has-yellow-outlined-shadow {
+.has-outlined-shadow,
+.has-yellow-outlined-shadow {
     --shadow-color: var(--ohs-color-accent-pink);
     --shadow-outline-color: var(--ohs-color-primary);
     --shadow-offset: 18px;
@@ -293,7 +291,6 @@ main a {
 .has-yellow-outlined-shadow {
     --shadow-color: var(--ohs-color-accent-yellow);
 }
-
 
 /* Footer magic */
 
@@ -325,7 +322,8 @@ main a {
 
 /* Let's make blockquotes fancy */
 
-.content blockquote, .content blockquote:not(:last-child) {
+.content blockquote,
+.content blockquote:not(:last-child) {
     margin-top: 3rem;
     margin-bottom: 2rem;
     padding: 2rem;
@@ -345,7 +343,6 @@ main a {
     box-shadow: var(--main-shadow), var(--outline-shadow-1), var(--outline-shadow-2), var(--outline-shadow-3);
 }
 
-
 .content blockquote.is-quiet {
     box-shadow: none;
     font-size: 0.9em;
@@ -355,15 +352,14 @@ main a {
 }
 
 @media screen and (max-width: 1023px) {
-    .content blockquote, .content blockquote:not(:last-child) {
+    .content blockquote,
+    .content blockquote:not(:last-child) {
         padding: 1.5rem;
         max-width: calc(100% - 1rem);
     }
 }
 
-
 /* Schedule pages (talks, workshops, etc.) */
-
 
 .schedule {
     .schedule-event {
@@ -419,7 +415,8 @@ main a {
         }
     }
 
-    .is-plenary, .is-break {
+    .is-plenary,
+    .is-break {
         background-color: var(--bg);
         color: var(--fg);
         --bulma-text: var(--fg);
@@ -427,7 +424,7 @@ main a {
 
     .is-plenary {
         --bg: var(--ohs-color-accent-pink);
-        --fg: var(var(--ohs-color-primary))
+        --fg: var(var(--ohs-color-primary));
     }
 
     .is-break {
@@ -435,7 +432,6 @@ main a {
         --fg: white;
     }
 }
-
 
 /* Event detail page (talks, workshops, etc.) */
 
@@ -464,6 +460,124 @@ main a {
             font-family: var(--ohs-family-display);
             font-size: var(--bulma-size-5);
             font-weight: var(--bulma-weight-extrabold);
+        }
+    }
+}
+
+/* Sponsors */
+
+.sponsors {
+    display: block;
+    width: 100%;
+    max-width: min(600px, 80%);
+    margin-inline: auto;
+
+    h2 {
+        display: none;
+    }
+
+    img.hr {
+        display: block;
+        margin-inline: auto;
+        margin-block: 6rem;
+        max-width: 50%;
+    }
+
+    h3 {
+        text-align: center;
+        margin-block-start: 3rem;
+    }
+
+    ul {
+        display: grid;
+        margin-block: 0;
+        margin-inline: 0;
+        padding-inline: 0;
+        padding-block: 0;
+        align-items: start;
+        justify-content: center;
+        gap: 4rem 5rem;
+        list-style: none;
+        margin-block-start: 2rem;
+        grid-template-columns: 0.5fr;
+
+        &.two-columns {
+            grid-template-columns: repeat(4, 1fr);
+
+            li {
+                grid-column: span 2;
+            }
+            li:nth-last-child(1):nth-child(odd) {
+                grid-column: 2 / span 2;
+            }
+        }
+
+        &.three-columns {
+            grid-template-columns: repeat(6, 1fr);
+
+            li {
+                grid-column: span 2;
+            }
+            li:last-child:nth-child(3n - 1) {
+                grid-column-end: -2;
+            }
+            li:nth-last-child(2):nth-child(3n + 1) {
+                grid-column-end: 4;
+            }
+            li:last-child:nth-child(3n - 2) {
+                grid-column-end: 5;
+            }
+        }
+
+        &.four-columns {
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            gap: 2.5rem;
+        }
+
+        li {
+            margin: 0;
+            display: grid;
+            align-items: center;
+            justify-content: center;
+            align-content: center;
+            align-self: center;
+            width: 100%;
+            aspect-ratio: 2/1;
+            list-style: none;
+
+            a  {
+                display: block;
+                width: 100%;
+                height: 100%;
+                aspect-ratio: 2/1;
+                background-color: transparent;
+                outline: none;
+                text-align: center;
+                color: var(--ohs-color-primary);
+                text-shadow: 4px 4px 0 var(--ohs-color-accent-pink);
+            }
+
+            img {
+                width: 100%;
+                height: 100%;
+                object-fit: contain;
+            }
+        }
+    }
+}
+
+
+@media screen and (max-width: 1023px) {
+    .sponsors {
+        ul {
+            &.three-columns, &.four-columns {
+                grid-template-columns: repeat(4, 1fr);
+                gap: 2.5rem;
+
+                li {
+                    grid-column: span 2;
+                }
+            }
         }
     }
 }
