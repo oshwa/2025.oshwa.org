@@ -6,6 +6,7 @@ location: Room 1
 presenter: Keenan Johnson
 presenters:
 - name: Keenan Johnson
+  image: ../keenan-johnson.webp
   bio: "Keenan is the founder of Ribbit Network. An electrical and software engineer by training Keenan leads the Ribbit Network project and consults in the climate tech space after being on the founding team of several startups working on electric aircraft, autonomous submarines, and nuclear fusion."
   links:
   - title: Site
