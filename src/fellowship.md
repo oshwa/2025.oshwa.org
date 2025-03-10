@@ -70,6 +70,7 @@ With Giulia Tomasello she co-founded Bruixes_Lab, a nomadic laboratory where bio
 They participated in TTT Conference in Malta, led workshops in Observatorio del Placer in BCN, Ars Elektronika in Linz, MU Hybrid Art House in Eindhoven, III Instrument Inventors in the Hague and much more..
         </p>
   </div>
+    </div>
 <div class="cool-person">
     <img src="/static/images/farnaz-baksh.jpg" class="has-outlined-shadow">
     <div>
@@ -80,6 +81,7 @@ They participated in TTT Conference in Malta, led workshops in Observatorio del 
            Farnaz Baksh is a roboticist and researcher specialising in human-robot interaction and social robotics. She is a Junior Research Fellow in Computer Engineering at the University of Tartu, where she also earned her MSc in Robotics. Currently pursuing a PhD in social-educational robotics, she focuses on designing open, adaptable, and ethically responsible robotic companions for students.
 Farnaz leads the development of the open-source robotic study companion project, supervising and mentoring students in their research. She is passionate about democratising access to technology education, contributing to the open-source community, and fostering innovation in human-centred AI and robotics. In her free time, she enjoys nature photography.
         </p>
+      </div>
       </div>
 <div class="cool-person">
     <img src="/static/images/matvz_Zorec.jpeg" class="has-outlined-shadow">
