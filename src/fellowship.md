@@ -69,5 +69,25 @@ Her artistic exploration of (trans)feminist activism and hacker culture is expre
 With Giulia Tomasello she co-founded Bruixes_Lab, a nomadic laboratory where biohacking and witchcraft rituals are performed to create speculative scenarios about pleasure and experimenting with DIY sensor circuits to hack the experience of arousal and decentralise the normative binaries of sexuality and bodies.
 They participated in TTT Conference in Malta, led workshops in Observatorio del Placer in BCN, Ars Elektronika in Linz, MU Hybrid Art House in Eindhoven, III Instrument Inventors in the Hague and much more..
         </p>
+  </div>
+<div class="cool-person">
+    <img src="/static/images/farnaz-baksh.jpg" class="has-outlined-shadow">
+    <div>
+        <h3>Farnaz Baksh</h3>
+        <ul class="details">
+        </ul>
+        <p>
+           Farnaz Baksh is a roboticist and researcher specialising in human-robot interaction and social robotics. She is a Junior Research Fellow in Computer Engineering at the University of Tartu, where she also earned her MSc in Robotics. Currently pursuing a PhD in social-educational robotics, she focuses on designing open, adaptable, and ethically responsible robotic companions for students.
+Farnaz leads the development of the open-source robotic study companion project, supervising and mentoring students in their research. She is passionate about democratising access to technology education, contributing to the open-source community, and fostering innovation in human-centred AI and robotics. In her free time, she enjoys nature photography.
+        </p>
+      </div>
+<div class="cool-person">
+    <img src="/static/images/matvz_Zorec.jpeg" class="has-outlined-shadow">
+    <div>
+        <h3>Matevž Zorec</h3>
+        <ul class="details">
+        </ul>
+        <p>
+           Matevž Zorec holds an M.Sc. in Robotics and Computer Engineering (cum laude) from the University of Tartu, where he is currently pursuing his PhD. His research combines the Internet of Things (IoT), Artificial Intelligence, and Robotics. He has worked on developing the award-winning social robot study companion, contributed to the IoTempower platform, and designed robust, low-cost air quality sensors. Matevž has also contributed to research on Special Educational Needs in Guyana. Committed to open-source, ethical, and user-friendly innovation, he strives to make technology more inclusive and practical in everyday life.
+        </p>
       
-    </div>
