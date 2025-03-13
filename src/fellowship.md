@@ -92,4 +92,15 @@ Farnaz leads the development of the open-source robotic study companion project,
         <p>
            Matevž Zorec holds an M.Sc. in Robotics and Computer Engineering (cum laude) from the University of Tartu, where he is currently pursuing his PhD. His research combines the Internet of Things (IoT), Artificial Intelligence, and Robotics. He has worked on developing the award-winning social robot study companion, contributed to the IoTempower platform, and designed robust, low-cost air quality sensors. Matevž has also contributed to research on Special Educational Needs in Guyana. Committed to open-source, ethical, and user-friendly innovation, he strives to make technology more inclusive and practical in everyday life.
         </p>
-      
+        </div>
+<div class="cool-person">
+    <img src="/static/images/priyanka_makin.JPG" class="has-outlined-shadow">
+    <div>
+        <h3>Priyanka Makin</h3>
+        <ul class="details">
+        </ul>
+        <p>
+           Priyanka Makin is an engineer and emerging multidisciplinary artist specializing in creative technology and sculpture. Her expertise spans kinetics, circuit boards, and audio devices, alongside traditional handicrafts such as textile arts and film photography.
+Her works delve into themes of identity, nature, and home with a touch of humor, reflecting her perspective as a mixed, anxious, first-gen American woman in STEM. She advocates for inclusivity in STEAM by employing an open source pedagogy and hosting educational workshops.
+Makin is a co-founder of Material Kitchen, an online resource for sustainable materials, a SparkFun Electronics alum, and holds a Masters from the Interactive Telecommunications Program at Tisch School of the Arts at NYU.
+        </p>
