@@ -16,7 +16,7 @@ presenters:
 eventbrite: https://www.eventbrite.com/e/1540000nm-of-ddssc-diy-dye-sensitized-solar-cell-tickets-1246809784629?aff=oddtdtcreator
 ---
 
-"Dye sensitized solar cell (DSSC) is a solar technology that is relatively easy to make with low cost. The power and conversion efficiency is related to it's dyed nano porous semiconductor layers, therefore it is a intersection of art crafts and nano technology. In this workshop you will be introduced to build a simple cell with costomised color and graphics to power a small low power consumminng synthesizer.
+Dye sensitized solar cell (DSSC) is a solar technology that is relatively easy to make with low cost. The power and conversion efficiency is related to it's dyed nano porous semiconductor layers, therefore it is a intersection of art crafts and nano technology. In this workshop you will be introduced to build a simple cell with costomised color and graphics to power a small low power consumminng synthesizer.
 
 You will get: a self-made 3x3cm DSSC-powered synthesizer.
 
