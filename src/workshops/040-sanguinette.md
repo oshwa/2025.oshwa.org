@@ -7,6 +7,7 @@ presenter: Sanguinette
 presenters:
 - name: Sanguinette
 - bio: Lion Sanguinette is an inustrial designer driven by sustainability, open-source principles, and accessible design. He focuses on creating products that are repairable, adaptable, and resource-efficient, aiming to challenge traditionel consumer habits.
+  eventbrite: https://www.eventbrite.com/e/we-are-building-an-opencyclone-vacuum-cleaner-tickets-1288735826549?aff=oddtdtcreator
 ---
 
 The Opensource Workshop is an invitation to explore open-source hardware through hands-on making and shared learning. Together, we build a modular, repairable vacuum cleaner- questioning how everyday objects can be designed for longevity rather than disposability. 
