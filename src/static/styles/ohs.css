@@ -464,6 +464,33 @@ main a {
     }
 }
 
+/* Posters (tables */
+
+
+.poster {
+    --title-line-height: 1.2;
+
+    .poster-title {
+        font-family: var(--ohs-family-display);
+        font-size: var(--bulma-size-3);
+        font-weight: var(--bulma-weight-extrabold);
+        line-height: var(--title-line-height);
+    }
+
+    a.poster-title {
+        color: var(--fg);
+        outline: none;
+        background-color: transparent;
+        text-decoration: underline;
+        text-decoration-color: var(--ohs-color-accent-pink);
+        text-decoration-thickness: 0.1em;
+    }
+
+    .poster-presenter {
+        font-size: var(--bulma-size-5);
+    }
+}
+
 /* Sponsors */
 
 .sponsors {

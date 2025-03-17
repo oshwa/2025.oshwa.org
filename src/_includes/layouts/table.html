@@ -1,0 +1,22 @@
+---
+layout: layouts/base.html
+---
+
+<div class="poster columns my-6">
+    <div class="column is-one-fifth poster-picture">
+        <figure class="image is-square">
+            {% if image %}
+            <img src="{{image}}">
+            {% else %}
+            <img src="{% placeholderImageUrl %}">
+            {% endif %}
+        </figure>
+    </div>
+    <div class="column">
+        <a class="poster-title" href="{{url}}">{{title}}</a>
+        <p class="poster-presenter">{{presenter}}</p>
+        <p class="my-4 content poster-content">
+            {{content}}
+        </p>
+    </div>
+</div>

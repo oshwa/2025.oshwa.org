@@ -50,6 +50,13 @@ export default function (eleventyConfig: any) {
             .getFilteredByTag("workshops")
             .sort(startDateSorter);
     });
+    eleventyConfig.addCollection("tables", (collectionApi: any) => {
+        return collectionApi
+            .getFilteredByTag("tables")
+            .filter(function(item: any) {
+                return item.data.hidden !== true;
+            });
+    });
 
     eleventyConfig.addFilter("formatDate", (date: Date, template: string, timezone: string = "Europe/London") => {
         // Reference: https://day.js.org/docs/en/display/format
@@ -94,6 +101,14 @@ export default function (eleventyConfig: any) {
             return dst.toString();
         },
     );
+
+    let placeholderCount = 0;
+    eleventyConfig.addShortcode("placeholderImageUrl", function (this: any) {
+        const placeholders: string[] = this.ctx.environments.placeholder_images;
+        const url = placeholders.at(placeholderCount % placeholders.length);
+        placeholderCount += 1;
+        return url;
+    });
 
     return {
         dir: {
