@@ -8,13 +8,13 @@ presenters:
 - name: Henrique Sambi
   image: ../henrique-sambi.webp
   bio: Henrique Sambi is an interactive designer Currently pursuing a master’s degree at KTH, Henrique is exploring technologies that interact closely with our bodies.
-- name: Caroline Yan Zheng
-  bio: Caroline Yan Zheng is a designer and researcher currently a Digital Futures postdoc fellow at KTH Royal Institute of Technology.
   links:
   - title: Instagram
     url: https://www.instagram.com/iquesambi/
   - title: Site
     url: https://sambi.com.br/
+- name: Caroline Yan Zheng
+  bio: Caroline Yan Zheng is a designer and researcher currently a Digital Futures postdoc fellow at KTH Royal Institute of Technology.
 eventbrite: https://www.eventbrite.com/e/designing-a-library-of-affective-touches-tickets-1246040664169?aff=oddtdtcreator
 ---
 
