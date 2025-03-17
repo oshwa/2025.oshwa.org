@@ -7,8 +7,14 @@ presenter: "David Yang, shuang cai"
 presenters:
 - name: David Yang
   bio: David is a Taiwanese American artist focus on crafting meaningful, joyful experiences that reveal the subtle ways people connect and communicate.
+  links:
+  - title: Instagram
+    url: https://www.instagram.com/dav1dyang/
 - name: shuang cai
   bio: a multimedia artist, curator, and writer based in NYC. Their art practices focus on logics, interactions, and humor. Their curatorial works aim to bring forth the power of interconnectedness and diverse voices across communities. They hold a Bachelor’s degree from Bard College double majoring in Computer Science and Studio Art and a Master’s from New York University Interactive Telecommunication Program(ITP).
+  links:
+  - title: Instagram
+    url: https://www.instagram.com/fkialmostforgot/
   eventbrite: https://www.eventbrite.com/e/waste-into-wonder-making-floating-mist-makers-ohs2025-tickets-1273017392289?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=wsa&aff=ebdsshwebmobile
 
 ---
