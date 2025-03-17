@@ -7,6 +7,12 @@ presenter: Cristina Dezi
 presenters:
 - name: Cristina Dezi
   image: ../cristina-dezi.webp
+  bio: Christie is a queer artist and designer.Through a feminist critique she experiments on biomateriality and wearables by intersecting textile innovation, costume design, biohacking and sextech.
+  links:
+  - title: Personal Instagram
+    url: https://www.instagram.com/christie.rd/
+  - title: Lab Instagram
+    url: https://www.instagram.com/bruixes_lab/
 eventbrite: https://www.eventbrite.co.uk/e/open-source-sigils-tickets-1279862967589?aff=oddtdtcreator
 ---
 
