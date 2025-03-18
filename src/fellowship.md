@@ -106,3 +106,17 @@ Her works delve into themes of identity, nature, and home with a touch of humor,
 Makin is a co-founder of Material Kitchen, an online resource for sustainable materials, a SparkFun Electronics alum, and holds a Masters from the Interactive Telecommunications Program at Tisch School of the Arts at NYU.
         </p>
 </div>
+ </div>
+<div class="cool-person">
+    <img src="/static/images/beccy_abraham.JPG" class="has-outlined-shadow">
+    <div>
+        <h3>Rebecca Abraham</h3>
+        <ul class="details">
+        </ul>
+        <p>
+           Rebecca Abraham (Beccy) is an MFA student in the Sonic Practice program at Dartmouth College. They graduated from UC Berkeley in 2020 with a degree in Electrical Engineering and Computer Science. They were a research fellow at the Berkeley Center for New Media, where they started working on the Magical Musical Mat with Professor Rachel Chen. While at Berkeley, Rebecca cofounded GIA MAG, a new community arts publication by and for queer/trans people of color. 
+
+At Dartmouth, Beccy’s research focuses on collaborative instrument design, and they’re curious about social dynamics and decision-making in collaborative musical contexts. Rebecca researches musical surrogate languages with Professors Laura McPherson and Andrew McPherson (Imperial College). They were a finalist for the Processing Foundation Fellowship in 2024 for their work creating Tiny Touch Instruments. Rebecca has presented work at Sensing the Forest, through the Center for Digital Music at Queen Mary University; the Open Source Arts Contributors’ Conference; and NIME. At NIME in 2024, they won “Best Music / Art Installation Award” for their piece, A Thousand Mornings, with support from the Arts Integration Grant at Dartmouth. Most recently, they presented their work with Tiny Touch Instruments at the Sound / Image Festival, hosted by the University of Greenwich. 
+
+Rebecca's primary instrument is the marimba, and they have more than a decade of concert percussion experience. They've played trombone with Cal Band and acted as principal percussionist for the University Wind Ensemble at UC Berkeley. They currently play with the Dartmouth College Wind Ensemble. In 2024, they won first place (brass and percussion division) in the Culley Concerto Competition.
+        </p>
