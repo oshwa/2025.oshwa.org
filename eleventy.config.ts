@@ -50,6 +50,11 @@ export default function (eleventyConfig: any) {
             .getFilteredByTag("workshops")
             .sort(startDateSorter);
     });
+    eleventyConfig.addCollection("panels", (collectionApi: any) => {
+        return collectionApi
+            .getFilteredByTag("panels")
+            .sort(startDateSorter);
+    });
     eleventyConfig.addCollection("tables", (collectionApi: any) => {
         return collectionApi
             .getFilteredByTag("tables")

@@ -1,0 +1,52 @@
+---
+layout: layouts/base.html
+---
+
+<div class="panels content my-6">
+  {{ content }}
+</div>
+
+<div class="schedule panels">
+  {% for event in collections.panels %}
+    <div id="{{event.fileSlug}}" class="columns schedule-event {% if event.data.plenary %}is-plenary{% endif %} {% if event.data.break %} is-break {% endif %}">
+      <div class="column is-one-fifth event-time">
+        <a class="event-start-time" href="#{{event.fileSlug}}">
+          {{ event.data.start | formatEventDate: "h:mm A" }}
+        </a>
+        <p class="event-end-time">ends {{ event.data.end | formatEventDate: "h:mm A" }}</p>
+        <p class="event-location">{{ event.data.location }}</p>
+      </div>
+      <div class="column">
+        {% if event.data.plenary != true and event.data.break != true %}
+          <a class="event-title" href="{{event.url}}">{{ event.data.title }}</a>
+        {% else %}
+          <p class="event-title">{{ event.data.title }}</p>
+        {% endif %}
+
+        {% if event.data.plenary != true and event.data.break != true %}
+          <p class="my-4">
+            <a href="{{event.url}}">More details</a>
+          </p>
+        {% endif %}
+      </div>
+    </div>
+
+    {% for panelist in event.data.panelists %}
+      <div class="columns is-mobile event-panelist">
+        <div class="column is-one-fifth event-panelist-left">
+          <figure class="image is-square">
+            {% if panelist.image %}
+              <img src="{{panelist.image}}">
+            {% else %}
+              <img src="{% placeholderImageUrl %}">
+            {% endif %}
+          </figure>
+        </div>
+        <div class="column is-align-content-center event-panelist-right">
+          <p class="is-size-5 event-panelist-name">{{ panelist.name }}</p>
+        </div>
+      </div>
+    {% endfor %}
+
+  {% endfor %}
+</div>

@@ -464,7 +464,7 @@ main a {
     }
 }
 
-/* Posters (tables */
+/* Posters (tables) */
 
 
 .poster {
@@ -490,6 +490,26 @@ main a {
         font-size: var(--bulma-size-5);
     }
 }
+
+
+/* Panels */
+
+.schedule.panels {
+    .event-panelist-left {
+        display: flex;
+        justify-content: right;
+    }
+    figure {
+        width: 50%;
+    }
+    .event-panelist-name {
+        font-family: var(--ohs-family-display);
+        font-size: var(--bulma-size-3);
+        font-weight: var(--bulma-weight-extrabold);
+        line-height: var(--title-line-height);
+    }
+}
+
 
 /* Sponsors */
 

@@ -2,11 +2,11 @@
 layout: layouts/base.html
 ---
 
-<div class="talks content my-6">
+<div class="posters content my-6">
     {{ content }}
 </div>
 
-<div class="schedule">
+<div class="schedule posters">
   {% for event in collections.tables %}
   <div id="{{event.fileSlug}}" class="columns schedule-event">
     <div class="column is-one-fifth event-picture">

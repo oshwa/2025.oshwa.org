@@ -1,4 +1,4 @@
 export default {
-    layout: "layouts/table.html",
+    layout: "layouts/poster.html",
     tags: "tables",
 };
