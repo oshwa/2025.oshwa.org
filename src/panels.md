@@ -5,4 +5,4 @@ title: Panels
 
 # Panels
 
-Panels are on **Friday, May 30th**.
+Panels are on **Saturday, May 31st**.

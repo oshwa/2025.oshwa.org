@@ -1,6 +1,6 @@
 ---
 title: "Rockets!"
-start: 2025-5-31 1:50 PM
+start: 2025-5-31 12:50 PM
 end: 2025-5-31 2:00 PM
 location: Room 2
 moderator: TBA
