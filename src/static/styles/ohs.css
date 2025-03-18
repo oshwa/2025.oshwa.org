@@ -150,10 +150,36 @@ main a {
     margin-block: 2rem;
 }
 
-.lil-guy img {
+.lil-guy > img {
     max-width: 30%;
     max-height: 10rem;
     flex-shrink: 1;
+}
+
+.lil-guy figure:not([class]) {
+    display: grid;
+    place-content: center center;
+    max-width: 30%;
+    height: 12rem;
+    aspect-ratio: 1/1;
+    margin: 0;
+
+    &:not(:last-child) {
+        margin: 0;
+    }
+
+    img {
+        display: block;
+        width: 100%;
+        object-fit: scale-down;
+    }
+}
+
+.lil-guy {
+    .big-quote {
+        width: 100%;
+        flex: 1;
+    }
 }
 
 .lil-guy.is-right {
