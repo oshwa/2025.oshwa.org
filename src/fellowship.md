@@ -108,7 +108,7 @@ Makin is a co-founder of Material Kitchen, an online resource for sustainable ma
 </div>
  </div>
 <div class="cool-person">
-    <img src="/static/images/beccy_abraham.JPG" class="has-outlined-shadow">
+    <img src="/static/images/beccy_abraham.HEIC" class="has-outlined-shadow">
     <div>
         <h3>Rebecca Abraham</h3>
         <ul class="details">
