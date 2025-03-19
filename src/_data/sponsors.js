@@ -61,6 +61,11 @@ export default [
                 url: "https://thingm.com",
                 image: "thingm.webp",
             },
+            {
+                name: "Umorpha",
+                url: "https://www.umorpha.io/",
+                image: "umorpha.webp",
+            },
         ],
     },
     {
@@ -100,6 +105,12 @@ export default [
             {
                 name: "Varro Life Sciences",
                 url: "https://varrobio.com/",
+                image: "varro.webp",
+            },
+            {
+                name: "Silicon Valley Robotics",
+                url: "https://svrobo.org/",
+                image: "svrobotics.webp",
             },
         ],
     },
