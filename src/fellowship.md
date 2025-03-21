@@ -114,4 +114,19 @@ For the twelth year, we are excited to offer up to **ten Open Hardware Fellowshi
             Rebecca's primary instrument is the marimba, and they have more than a decade of concert percussion experience. They've played trombone with Cal Band and acted as principal percussionist for the University Wind Ensemble at UC Berkeley. They currently play with the Dartmouth College Wind Ensemble. In 2024, they won first place (brass and percussion division) in the Culley Concerto Competition.
         </p>
     </div>
+    </div>
+</div>
+<div class="cool-person">
+    <img src="/fellows/erin_rose.jpeg" class="has-outlined-shadow">
+    <div>
+        <h3>Erin Rose</h3>
+        <ul class="details"></ul>
+        <p>
+            Erin is a product engineer, artist, and industrial designer currently living near London. Her main passion is the intersection of mechanical and electrical engineering, finding beautiful solutions to the integration problems found there. 
+
+Her involvement in open source hardware design is long-standing - from 3D printer modding as a teenager to, most recently, mechanical design for the music player Tangara. She is currently working on an unreleased trans healthcare hardware project.
+
+She’s also interested in architectural lighting, working with a US-based home automation startup on a novel lighting ecosystem, as well as various personal projects. 
+        </p>
+    </div>
 </div>
