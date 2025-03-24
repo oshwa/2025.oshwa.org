@@ -15,7 +15,3 @@ presenters:
 How we replicated an opensource hardware project to engage communities, address sustainability challenges, and make things that make sense.
 
 Introducing the BrailleRAP braille embossing device, what it's for, why opensource matters, and how it was replicated in Bhutan, Singapore, Philippines, and soon in Cameroon, Thailand, and Cambodia
-
----
-
-Description coming soon!
