@@ -12,7 +12,7 @@ presenters:
     url: https://www.instagram.com/lion_sanguinette/
   - title: Opencyclone Instagram
     url: https://www.instagram.com/os_systems/
-  eventbrite: https://www.eventbrite.com/e/we-are-building-an-opencyclone-vacuum-cleaner-tickets-1288735826549?aff=oddtdtcreator
+eventbrite: https://www.eventbrite.com/e/we-are-building-an-opencyclone-vacuum-cleaner-tickets-1288735826549?aff=oddtdtcreator
 ---
 
 The Opensource Workshop is an invitation to explore open-source hardware through hands-on making and shared learning. Together, we build a modular, repairable vacuum cleaner- questioning how everyday objects can be designed for longevity rather than disposability. 
