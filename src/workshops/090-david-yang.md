@@ -15,7 +15,7 @@ presenters:
   links:
   - title: Instagram
     url: https://www.instagram.com/fkialmostforgot/
-  eventbrite: https://www.eventbrite.com/e/waste-into-wonder-making-floating-mist-makers-ohs2025-tickets-1273017392289?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=wsa&aff=ebdsshwebmobile
+eventbrite: https://www.eventbrite.com/e/waste-into-wonder-making-floating-mist-makers-ohs2025-tickets-1273017392289?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=wsa&aff=ebdsshwebmobile
 
 ---
 
