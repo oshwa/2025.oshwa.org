@@ -9,7 +9,7 @@ presenters:
   bio: "Helen Leigh is a hacker, writer, musician, presenter, educator, artist & self-professed nerd. She is the author of The Crafty Kid’s Guide to DIY Electronics and the creator of the MINI·MU glove. Now Head of Community at Crowd Supply."
 - name: Anu Reddy
   bio: "Anu Reddy is a designer, researcher, maker, artist, educator, and hacker. She melds historical and cultural craft practices into tech using knotty, patterny, algorithmic things."
-  eventbrite: https://www.eventbrite.se/e/interfacing-hardware-with-soft-things-tickets-1287525526509?aff=oddtdtcreator
+eventbrite: https://www.eventbrite.se/e/interfacing-hardware-with-soft-things-tickets-1287525526509?aff=oddtdtcreator
 ---
 
 Level up your soft circuitry and embroidery skills with Helen Leigh and Anu Reddy by making an interactive floral-themed embroidery project.
