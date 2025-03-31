@@ -118,21 +118,6 @@ Would you like to have your logo on our badges, which sometimes light up, intera
 - Get your exclusive logo alongside the summit logo on our lanyards for this year's conference.
 - *Plus* everything included in the Fanatic level sponsorship.
 
-**$6,000 Bag sponsor - 3 available**
-
-- Your logo displayed beside OSHWA's on our bags and 2 other friends for this year's conference
-- *Plus* everything included in the Fanatic level sponsorship.
-
-**$3,000 Wi-Fi sponsor - 1 available**
-
-- Your name and logo on signage near the registration table with Wi-Fi information.
-- *Plus* everything included in the Enthusiast level sponsorship.
-
-**$3,000 Refreshment sponsors - 2 available**
-
-- Your name and logo on signage near the refreshment table.
-- *Plus* everything included in the Enthusiast level sponsorship.
-
 > Interested in being a headline sponsor?
 >
 > <a href="https://secure.lglforms.com/form_engine/s/sb0TeprRqMfKEkMDJIZtwA" target="_blank" class="button">Donate now</a>
