@@ -6,19 +6,21 @@ location: Room 3
 presenter: Material Kitchen
 presenters:
 - name: Priyanka Makin
-  image: 
+  image: Material_Kitchen_People.jpg 
   bio: Priyanka Makin is a computer engineer and multidisciplinary artist whose work explores themes of identity and nature through motors, materials, and humor. She's a SparkFun Electronics alum, graduate of the Interactive Telecommunications Program at NYU, and a 2025 Open Hardware Summit Fellow. 
   links:
-  - title: Personal Instagram
-    url: https://www.instagram.com/priyankasomething/
+  - title: Material Kitchen
+    url: https://itp.nyu.edu/courses/material/
+  - title: Site
+    url: https://www.priyankamakin.com/
   - title: Project Instagram
     url: https://www.instagram.com/makinstuff.online/
 - name: Yeseul Song
-  image: 
+  image: Material_Kitchen_People.jpg 
   bio: Yeseul Song is an artist who makes non-visual interactive experiences and playful installations enhanced by technology, which redefines the relationship between art and participants. She is an Assistant Arts Professor at New York University Tisch's Interactive Telecommunications Program & Interactive Media Arts (NYU ITP/IMA).
   links:
-  - title: Personal Instagram
-    url: https://www.instagram.com/yeseulsong_/
+  - title: Site
+    url: https://yeseul.com/
 eventbrite: https://www.eventbrite.com/e/touchy-feely-algae-workshop-ohs2025-tickets-1295208777319?aff=oddtdtcreator
 
 ---
