@@ -7,7 +7,7 @@ presenter: Sanguinette
 presenters:
 - name: Sanguinette
 - bio: Lion Sanguinette is an inustrial designer driven by sustainability, open-source principles, and accessible design. He focuses on creating products that are repairable, adaptable, and resource-efficient, aiming to challenge traditionel consumer habits.
-  image: ../Lion_Sanguiette_Headshot.png
+  image: ../Lion_Sanguinette_Headshot.png
   links:
   - title: Personal Instagram
     url: https://www.instagram.com/lion_sanguinette/
