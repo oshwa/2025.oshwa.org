@@ -1,6 +1,6 @@
 export default [
     {
-        heading: "WiFi sponsor",
+        heading: "WiFi sponsors",
         layout: "one-column",
         sponsors: [
             {
@@ -8,6 +8,11 @@ export default [
                 url: "https://crowdsupply.com",
                 image: "crowdsupply.webp",
             },
+            {
+                name: "Open Water",
+                url: "https://www.openwater.health/",
+                image: "openwater.webp",
+            }
         ],
     },
     {
@@ -66,6 +71,11 @@ export default [
                 url: "https://www.umorpha.io/",
                 image: "umorpha.webp",
             },
+            {
+                name: "Pimoroni",
+                url: "https://pimoroni.com/",
+                image: "pimoroni.webp",
+            },
         ],
     },
     {
@@ -111,6 +121,16 @@ export default [
                 name: "Silicon Valley Robotics",
                 url: "https://svrobo.org/",
                 image: "svrobotics.webp",
+            },
+            {
+                name: "Open Source Imaging",
+                url: "https://opensourceimaging.org/",
+                image: "osi.webp",
+            },
+            {
+                name: "OpenHVAC",
+                url: "https://openhvac.io/",
+                image: "openhvac.webp",
             },
         ],
     },
