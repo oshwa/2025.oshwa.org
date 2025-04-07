@@ -5,7 +5,8 @@ end: 2025-5-30 2:30 PM
 presenter: Martin Ling
 presenters:
 - name: Martin Ling
-  bio: ""
+  bio: Martin Ling is an engineer who specialises in R&D projects that mix electronics design, software engineering, mathematics, and other disciplines. He has been working with Great Scott Gadgets on Cynthion and other open source hardware projects. When not working he can often be found messing about in boats.
+  image: ../martin_ling_headshot.jpg
   links:
   - title: GitHub
     url: https://github.com/martinling
