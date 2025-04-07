@@ -6,6 +6,7 @@ presenter: Eli Silver
 presenters:
 - name: Eli Silver
   bio: Eli is an engineer and designer passionate about accessible science. As a Research Engineer in the Harris Lab at Brown University, he creates experimental equipment and turns designs into open-hardware projects. On the side, he enjoys building electronic instruments and interactive robots.
+  image: ../Eli_Silver_Headshot.jpeg
   links:
   - title: Site
     url: http://elisilver.com/
