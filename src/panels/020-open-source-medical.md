@@ -1,7 +1,7 @@
 ---
 title: "Open Source Medical"
-start: 2025-5-31 12:00 PM
-end: 2025-5-31 12:50 PM
+start: 2025-5-31 2:00 PM
+end: 2025-5-31 4:00 PM
 location: Room 1
 moderator: TBA
 panelists:
