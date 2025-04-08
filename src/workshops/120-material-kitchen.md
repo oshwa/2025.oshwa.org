@@ -25,7 +25,7 @@ eventbrite: https://www.eventbrite.com/e/touchy-feely-algae-workshop-ohs2025-tic
 
 ---
 Material Kitchen is an initiative and resource for sustainable materials, housed at ITP/IMA (Interactive Telecommunications Program / Interactive Media Arts) at NYU Tisch School of the Arts. Material Kitchen started in 2023, by Yeseul Song and Priyanka Makin, recognizing the urgent need to research and adopt sustainable materials for prototyping and making physical computing and fabrication projects.
-
+  links:
   - title: Material Kitchen
     url: https://itp.nyu.edu/courses/material/
 
