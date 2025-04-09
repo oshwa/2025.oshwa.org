@@ -24,6 +24,7 @@ panelists:
 - name: Eilidh Troup
   pronouns: she/her
   bio: "Eilidh Troup is a software engineer. She lost half her sight as a result of stroke, her interest in neuroplasticity led her to investigate rehab possibilities to retrain her brain to see again."
+  image: ../eilidh_troup_headshot.jpeg 
   links:
   - title: Mastodon
     url: https://mastodon.scot/@daisydaisy
