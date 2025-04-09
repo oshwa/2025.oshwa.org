@@ -7,8 +7,8 @@ moderator: TBA
 panelists:
 - name: Rehana Al-Soltane
   pronouns: she/her
+  bio: "Rehana is a designer of all sorts: in education she designs learning experiences about AI, and in the wearable technology world she designs couture dresses integrated with electronics and digital fabrication techniques. All with 'open-sourcery' at the heart at what she does!"
   image: ../Rehanna_Al-Soltane_Headshot.jpg
-  bio: "Rehana is a designer of all sorts: in education she designs learning experiences about AI, and in the wearable technology world she designs couture dresses integrated with electronics and digital fabrication techniques. All with 'open-sourcery' at the heart at what she does!" 
   links:
   - title: Instagram
     url: https://www.instagram.com/rehanafied/
