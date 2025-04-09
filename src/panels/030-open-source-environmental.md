@@ -7,11 +7,15 @@ moderator: TBA
 panelists:
 - name: Jo Walsh
   pronouns: they/she
+  bio: Jo Walsh is a Research Software Engineer at the UK Centre for Ecology and Hydrology here in Edinburgh. New both to open sourece hardware and environmental sensing, they've obtained a Fellowship from the Software Sustainability Institute on the theme of applying the same principles of reproducible, reusable open source research software to hardware. 
+  image: ../jo_walsh_headshot.png 
   links:
   - title: Mastodon
     url: https://mastodon.scot/@ultrazool
 - name: Shannon Hicks
   pronouns: she/her
+  bio: Shannon Hicks is an electrical engineer at Stroud Water Research Center in Pennsylvania where she designs and builds a variety of environmental sensor data logger systems using open source hardware and software. She's the co-founder of EnviroDIY, an online community of users who share ideas and solutions for low-cost environmental monitoring. Shannon is also the developer of the Mayfly Data Logger, an open-source, Arduino-based board that makes it easy to build monitoring stations with sensors and telemetry modules. She has taught dozens of workshops to a wide range of audiences about how to use open-source tools for environmental monitoring and research.
+  image: ../shannon-hicks.jpg 
   links:
   - title: EnviroDIY
     url: https://www.envirodiy.org
