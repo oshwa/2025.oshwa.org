@@ -20,6 +20,7 @@ panelists:
 - name: Rohit Gupta
   pronouns: he/him
   bio: "Rohit Gupta is an engineer who builds things for creative inquiry. His interests includes keywords like theatre, design, climate foresight, solar racing, toys, and design fiction. He has his studio practise helping clients go from idea to production. He works on projects ranging from AI agents to inventing food recipes."
+  image: ../Rohit_Gupta_headshot.jpg 
   links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/rohit7gupta/
