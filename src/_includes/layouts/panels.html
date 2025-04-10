@@ -36,7 +36,7 @@ layout: layouts/base.html
         <div class="column is-one-fifth event-panelist-left">
           <figure class="image is-square">
             {% if panelist.image %}
-              <img src="{{panelist.image}}">
+              <img src="{{event.url}}{{panelist.image}}">
             {% else %}
               <img src="{% placeholderImageUrl %}">
             {% endif %}

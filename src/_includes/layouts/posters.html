@@ -3,30 +3,30 @@ layout: layouts/base.html
 ---
 
 <div class="posters content my-6">
-    {{ content }}
+  {{ content }}
 </div>
 
 <div class="schedule posters">
   {% for event in collections.tables %}
-  <div id="{{event.fileSlug}}" class="columns schedule-event">
-    <div class="column is-one-fifth event-picture">
-      <a class="event-start-time" href="{{event.url}}">
-        <figure class="image is-square">
-          {% if event.image %}
-          <img src="{{event.image}}">
-          {% else %}
-          <img src="{% placeholderImageUrl %}">
-          {% endif %}
-        </figure>
-      </a>
+    <div id="{{event.fileSlug}}" class="columns schedule-event">
+      <div class="column is-one-fifth event-picture">
+        <a class="event-start-time" href="{{event.url}}">
+          <figure class="image is-square">
+            {% if event.image %}
+              <img src="{{event.url}}{{event.image}}">
+            {% else %}
+              <img src="{% placeholderImageUrl %}">
+            {% endif %}
+          </figure>
+        </a>
+      </div>
+      <div class="column">
+        <a class="event-title" href="{{event.url}}">{{ event.data.title }}</a>
+        <p class="event-presenter">{{ event.data.presenter }}</p>
+        <p class="my-4">
+          <a href="{{event.url}}">More details</a>
+        </p>
+      </div>
     </div>
-    <div class="column">
-      <a class="event-title" href="{{event.url}}">{{event.data.title}}</a>
-      <p class="event-presenter">{{event.data.presenter}}</p>
-      <p class="my-4">
-        <a href="{{event.url}}">More details</a>
-      </p>
-    </div>
-  </div>
   {% endfor %}
 </div>
