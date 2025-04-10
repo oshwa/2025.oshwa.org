@@ -5,7 +5,7 @@ end: 2025-5-30 12:50 PM
 presenter: Kliment
 presenters:
 - name: Kliment
-- bio: Kliment is a hardware and electronics consultant that has worked on a wide range of products in multiple industries. He volunteers as one of the librarians that maintain KiCad's official libraries, and teaches electronics workshops at various community events.
+  bio: Kliment is a hardware and electronics consultant that has worked on a wide range of products in multiple industries. He volunteers as one of the librarians that maintain KiCad's official libraries, and teaches electronics workshops at various community events.
   image: ../Kliment_headshot.png
 ---
 
