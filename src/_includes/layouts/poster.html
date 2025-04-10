@@ -2,21 +2,43 @@
 layout: layouts/base.html
 ---
 
-<div class="poster columns my-6">
+<div class="event poster content my-6">
+  <div class="columns">
     <div class="column is-one-fifth poster-picture">
-        <figure class="image is-square">
-            {% if image %}
-            <img src="{{image}}">
-            {% else %}
-            <img src="{% placeholderImageUrl %}">
-            {% endif %}
-        </figure>
+      <figure class="image is-square">
+        {% if image %}
+          <img src="{{image}}">
+        {% else %}
+          <img src="{% placeholderImageUrl %}">
+        {% endif %}
+      </figure>
     </div>
     <div class="column">
-        <a class="poster-title" href="{{url}}">{{title}}</a>
-        <p class="poster-presenter">{{presenter}}</p>
-        <p class="my-4 content poster-content">
-            {{content}}
-        </p>
+      <a class="poster-title" href="{{url}}">{{ title }}</a>
+      <p class="poster-presenter">{{ presenter }}</p>
+      <p class="my-4 content poster-content">
+        {{ content }}
+      </p>
     </div>
+  </div>
+  <p class="event-presenters">
+    {% for presenter in presenters %}
+      <div class="cool-person">
+        <img src="{{ presenter.image | default: "/static/images/speaker-placeholder.webp"}}" class="has-outlined-shadow">
+        <div>
+          <h3>{{ presenter.name }}</h3>
+          <p>{{ presenter.bio }}</p>
+          {% if presenter.links %}
+            <ul class="links">
+              {% for link in presenter.links %}
+                <li>
+                  <a href="{{link.url}}" target="_blank">{{ link.title }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </p>
 </div>
