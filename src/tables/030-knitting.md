@@ -1,6 +1,15 @@
 ---
 title: Edinburgh's hacked knitting machine scene
 presenter: Cicely Poulton, Colin Paton, Madeleine Shepherd
+links:
+  - title: Cicely Mastodon
+    url: https://toot.community/@cicely
+  - title: Colin Mastodon
+    url: https://toot.community/@shortcolin@toot.community
+  - title: Madeleine Mastodon
+    url: https://toot.community/@MadeleineS@mathstodon.xyz
+  - title: Madeleine Site
+    url: https://www.madeleineshepherd.co.uk
 ---
 
 Domestic knitting machine hacking has been around for a while and has mostly focused on the Brother Electroknit brand. Our project is different in that it uses the other main brand of knitting machine - Knitmaster. Our hack uses a Raspberry Pi Pico to transmit image files from a laptop to the knitting machine.
