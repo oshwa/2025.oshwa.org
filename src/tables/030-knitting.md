@@ -2,7 +2,7 @@
 title: Edinburgh's hacked knitting machine scene
 presenter: Cicely Poulton, Colin Paton, Madeleine Shepherd
 presenters:
-links:
+ links:
   - title: Cicely Mastodon
     url: https://toot.community/@cicely
   - title: Colin Mastodon
