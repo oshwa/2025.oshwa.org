@@ -1,7 +1,7 @@
 ---
 title: Solder Party
 presenter: Arturo from Solder Party
- links:
+links:
   - title: Sodler Party LinkTree
     url: https://linktr.ee/solderparty
 ---
