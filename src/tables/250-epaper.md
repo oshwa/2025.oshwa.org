@@ -1,6 +1,13 @@
 ---
 title: Fun conversation starters! Epaper badges
 presenter: Leon Nunes
+links:
+  - title: Bluesky
+    url: https://bsky.app/profile/mediocredevops.com
+  - title: GitHub
+    url: https://github.com/afro-coder
+  - title: Dev.to
+    url: https://dev.to/mediocredevops
 ---
 
 I'm currently in the process of making e-paper/oled bages if possible as conversation starters,
