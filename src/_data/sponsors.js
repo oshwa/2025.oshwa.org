@@ -76,6 +76,11 @@ export default [
                 url: "https://pimoroni.com/",
                 image: "pimoroni.webp",
             },
+            {
+                name: "Arduino",
+                url: "https://www.arduino.cc/",
+                image: "arduino.webp",
+            },
         ],
     },
     {
