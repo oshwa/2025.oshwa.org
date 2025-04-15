@@ -14,7 +14,7 @@ panelists:
 - name: Chris Rexroth
   pronouns: he/him
   bio: "Chris Rexroth is a biomedical engineer who looks forward to a world where corporate interests do not interfere with medical advancements. He currently works with an implantable device that is being studied under clinical trial for its effectiveness in restoring function in people with high-level spinal cord injury. With COSMIIC, he is preparing the designs and documentation of that device system so that other researchers developing human therapies can use it themselves."
-    image: ../Chris_Rexroth_Headshot.JPG 
+  image: ../Chris_Rexroth_Headshot.JPG 
   links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/chris-rexroth
