@@ -19,4 +19,11 @@ panelists:
   links:
   - title: EnviroDIY
     url: https://www.envirodiy.org
+  - name: Débora Swinstun
+  pronouns: she/her
+  bio: 
+  image: ../Débora Swinstun.png 
+  links:
+  - title: Instagram
+    url: https://www.instagram.com/dealesbello/
 ---
