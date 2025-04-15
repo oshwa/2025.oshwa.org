@@ -17,4 +17,13 @@ panelists:
   links:
   - title: GitHub
     url: https://github.com/j-simmons-phd
+  - name: Logan Herrera
+  pronouns: he/him
+  bio: 
+  image: ../logan_herrera_headshot.jpg
+  links:
+  - title: LinkedIn
+    url: http://www.linkedin.com/in/loganpherrera
+  - title: Bluesky
+    url: https://bsky.app/profile/loganherrera.bsky.social
 ---
