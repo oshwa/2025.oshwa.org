@@ -36,6 +36,7 @@ panelists:
 - name: Lukas Winter
   pronouns: he/him
   bio: "Lukas Winter is a scientist with a background in electrical engineering workfing for the German National Metrology Institute and the founder and current chair of the non-profit Open Source Imaging Initiative e.V.. Lukas is a dreamer, who wants to reduce conflicts of interest, redundancies and inequalities in healthcare and science. He is driving the technical developments and documentation of the OSI² ONE MR scanner and connecting the dots in the community."
+  image: ../Lukas_Winter_Headshot.jpg
   links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/lukas-winter-25567a34/
