@@ -5,7 +5,7 @@ presenters:
 - name: Edinburgh Knitting Machine
 bio:
 image:
- links:
+links:
   - title: Cicely Mastodon
     url: https://toot.community/@cicely
   - title: Colin Mastodon
