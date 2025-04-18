@@ -7,7 +7,7 @@ moderator: TBA
 panelists:
 - name: Jo Hinchliffe
   pronouns: he/him/they/them
-  bio: Jo is a Freelance Maker and technical writer with a focus on Opensource technologies.  His clients include Raspberry Pi, Tindie, The FreeCAD Project Assc, RS Electronics, Toms Hardware and more. Jo sat on the UK Rocketry council for numerous years, was a core contributor to the Libre Space Foundation and also holds a UK altitude record for A impulse rocketry. He has designed and delivered many rocketry workshops and mentored rocketry teams and individuals in the UK. He was a founder memebr of "The FLame Trench" a collaborative group including Joe Barnard and Arsenio Menendes. 
+  bio: Jo is a Freelance Maker and technical writer with a focus on Opensource technologies.  His clients include Raspberry Pi, Tindie, The FreeCAD Project Assc, RS Electronics, Toms Hardware and more. Jo sat on the UK Rocketry council for numerous years, was a core contributor to the Libre Space Foundation and also holds a UK altitude record for A impulse rocketry. He has designed and delivered many rocketry workshops and mentored rocketry teams and individuals in the UK. He was a founder memebr of "The FLame Trench" a collaborative group including Joe Barnard and Arsenio Menendes.
   links:
   - title: Mastodon
     url: https://mastodon.social/@concretedog
@@ -17,10 +17,10 @@ panelists:
   links:
   - title: GitHub
     url: https://github.com/j-simmons-phd
-  - name: Logan Herrera
+- name: Logan Herrera
   pronouns: he/him
-  bio: 
-  image: ../logan_herrera_headshot.jpg
+  bio:
+  image: ../logan_herrera_headshot.jpeg
   links:
   - title: LinkedIn
     url: http://www.linkedin.com/in/loganpherrera
