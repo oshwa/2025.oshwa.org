@@ -19,7 +19,7 @@ panelists:
     url: https://github.com/j-simmons-phd
 - name: Logan Herrera
   pronouns: he/him
-  bio:
+  bio: Logan, an electrical engineer by training, leads Lander Challenge self-landing rocket challenge compliance and has been launching rockets for over 15 years. He is passionate about rocket engineering as a multidisciplinary educational tool, having mentored numerous student teams and developed open-source information sharing approaches to foster academic innovation. In addition, he serves as the Director of Media for the International Rocket Engineering Competition (IREC), the world's largest university rocket engineering competition. In this capacity, he successfully led a public engagement campaign that generated unprecedented community participation in US export control reform, resulting in over 2,200 public comments.
   image: ../logan_herrera_headshot.jpeg
   links:
   - title: LinkedIn
