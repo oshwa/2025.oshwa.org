@@ -26,4 +26,11 @@ panelists:
   links:
   - title: Instagram
     url: https://www.instagram.com/dealesbello/
+  - name: Sasha Engelmann
+  pronouns: she/her
+  bio:
+  image: ../sasha_Engelmann.png
+  links:
+  - title: Instagram
+    url: https://www.instagram.com/sasha_intheair/
 ---
