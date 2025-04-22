@@ -21,7 +21,7 @@ panelists:
     url: https://www.envirodiy.org
 - name: Débora Swinstun
   pronouns: she/her
-  bio:
+  bio: is Anthropologist (National University of La Plata, Argentina) and Master of Sciences in Urban Development and International Cooperation (Institut d'Urbanisme de Grenoble (France) - Technische Universität Darmstadt (Germany)). Through training, research and work experience in Europe, North Africa and Latin America she specialized in co-production of knowledge and public politics, contested spaces, environmental risk and transitions to sustainability. She published in various international journals and her book "Flammable. Environmental suffering in an Argentine shantytown" (with Javier Auyero, Oxford, 2008) won four international awards and inspired several public interventions in the Dock Sud port area (Buenos Aires). Currently she teaches environmental humanities at National Argentines Universities (Buenos Aires) and performes as coordinator, consultant or researcher in various projects about low cost monitoring and evaluation of environmnetal risks, health, forced displacement, and low impact living.
   image: ../debora_swinstun.png
   links:
   - title: Instagram
