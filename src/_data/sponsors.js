@@ -40,6 +40,11 @@ export default [
                 url: "https://hackster.io",
                 image: "hackster.webp"
             },
+            {
+                name: "NXP & Dronecode",
+                url: "https://dronecode.org",
+                image: "nxp-dronecode.webp"
+            },
         ],
     },
     {
