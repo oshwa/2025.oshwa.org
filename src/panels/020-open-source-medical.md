@@ -41,4 +41,13 @@ panelists:
   links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/lukas-winter-25567a34/
+  - name: Scott Smith
+  pronouns: he/him
+  bio: Scott Smith is the VP of Community Development at Openwater, the world’s first commercial open source medical device company.  He has held leadership positions at many neurotechnology companies, including Neuroscan, Compumedics, EmSense, Neuralynx, and Diagnostic Biochips. Scott was part of the team who brought the first commercial 128 channel amplifier to market (Neuroscan Synamp), and the first FDA approved 512 channel system for recording from microelectrodes in humans (Neuralynx ATLAS)
+  image: ../scott_smith_headshot.jpeg
+  links:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/scottsmithsprofile/
+  - Openwater LinkedIn:
+    url: https://www.linkedin.com/company/openwater-health/
 ---
