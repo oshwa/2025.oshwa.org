@@ -8,6 +8,7 @@ panelists:
 - name: Anne Coburn
   pronouns: she/her
   bio: "As the chief operating officer of COSMIIC Inc., Anne Coburn is leveraging skills gained in media production, licensing, contracts, budgeting, small business creation, and management to create a medical device start-up providing researchers with lower-cost tools based on the COSMIIC open source ecosystem."
+  image: ../anne_coburn_headshot.png
   links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/anne-coburn-3116681
