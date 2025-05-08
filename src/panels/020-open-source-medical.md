@@ -15,14 +15,14 @@ panelists:
 - name: Chris Rexroth
   pronouns: he/him
   bio: "Chris Rexroth is a biomedical engineer who looks forward to a world where corporate interests do not interfere with medical advancements. He currently works with an implantable device that is being studied under clinical trial for its effectiveness in restoring function in people with high-level spinal cord injury. With COSMIIC, he is preparing the designs and documentation of that device system so that other researchers developing human therapies can use it themselves."
-  image: ../Chris_Rexroth_Headshot.JPG 
+  image: ../Chris_Rexroth_Headshot.JPG
   links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/chris-rexroth
 - name: Rohit Gupta
   pronouns: he/him
   bio: "Rohit Gupta is an engineer who builds things for creative inquiry. His interests includes keywords like theatre, design, climate foresight, solar racing, toys, and design fiction. He has his studio practise helping clients go from idea to production. He works on projects ranging from AI agents to inventing food recipes."
-  image: ../Rohit_Gupta_headshot.jpg 
+  image: ../Rohit_Gupta_headshot.jpg
   links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/rohit7gupta/
@@ -41,7 +41,7 @@ panelists:
   links:
   - title: LinkedIn
     url: https://www.linkedin.com/in/lukas-winter-25567a34/
-  - name: Scott Smith
+- name: Scott Smith
   pronouns: he/him
   bio: Scott Smith is the VP of Community Development at Openwater, the world’s first commercial open source medical device company.  He has held leadership positions at many neurotechnology companies, including Neuroscan, Compumedics, EmSense, Neuralynx, and Diagnostic Biochips. Scott was part of the team who brought the first commercial 128 channel amplifier to market (Neuroscan Synamp), and the first FDA approved 512 channel system for recording from microelectrodes in humans (Neuralynx ATLAS)
   image: ../scott_smith_headshot.jpeg
