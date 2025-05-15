@@ -1,6 +1,6 @@
 ---
 title: Internet of Production
-presenter: Andrew David Lamb
+presenter: Andrew Lamb
 # presenters:
 # - name: Andrew
 #   links:
