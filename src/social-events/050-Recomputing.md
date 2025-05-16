@@ -1,5 +1,5 @@
 ---
-title: Recomputing the Planet!  An Edinburgh/Cornell Happening
+title: Recomputing the Planet! An Edinburgh/Cornell Happening
 start: 2025-05-30 6:00 PM
 end: 2025-05-30 10:00 PM
 organizer: Edinburgh College of Art
