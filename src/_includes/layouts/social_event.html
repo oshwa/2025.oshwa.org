@@ -1,0 +1,32 @@
+---
+layout: layouts/base.html
+---
+<div class="event social-event content my-6">
+  <h1 class="event-title">{{ title }}</h1>
+  <p class="event-time">
+    <span class="event-time-span">{% formatEventDates start end timezone %}</span>
+    <a
+      class="event-add-to-calendar"
+      href="{% eventGoogleCalendarLink title, link, location, start, end, timezone %}"
+      target="_blank">
+      Add to Calendar
+    </a>
+  </p>
+  <p class="event-location">
+    {% if location %}
+      {{ location }}
+    {% endif %}
+    {% if location and organizer %}
+      ●
+    {% endif %}
+    {% if organizer %}
+      {{ organizer }}
+    {% endif %}
+  </p>
+  {% if link and link.title %}
+    <p class="has-text-centered my-6">
+      <a class="button" href="{{link.url}}" target="_blank">{{ link.title }}</a>
+    </p>
+  {% endif %}
+  <p class="content event-content">{{ content }}</p>
+</div>

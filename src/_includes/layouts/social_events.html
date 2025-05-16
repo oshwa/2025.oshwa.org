@@ -1,0 +1,27 @@
+---
+layout: layouts/base.html
+---
+<div class="social-events content my-6">
+  {{ content }}
+</div>
+
+<div class="schedule social-events">
+  {% for event in collections.social_events %}
+    <div id="{{event.fileSlug}}" class="columns schedule-event">
+      <div class="column is-one-fifth event-time">
+        <p class="event-start-time">{{ event.data.start | formatDate: 'MMM D' }}</p>
+        <p class="event-end-time">{{ event.data.start | formatEventDate: 'h:mm A' }}</p>
+      </div>
+      <div class="column">
+        <a class="event-title" href="{{event.url}}">{{ event.data.title }}</a>
+        {% if event.data.organizer %}
+          <p class="event-presenter">{{ event.data.organizer }}</p>
+        {% endif %}
+        <p class="event-location">{{ event.data.location }}</p>
+        <p class="my-4">
+          <a href="{{event.url}}">More details</a>
+        </p>
+      </div>
+    </div>
+  {% endfor %}
+</div>

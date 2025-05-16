@@ -18,7 +18,18 @@ title: 2025 Open Hardware Summit Schedule
 </div>
 <div class="lil-guy is-left">
     <figure>
-        <img src="/static/images/lil-guy-3-color.svg">
+        <img src="/static/images/lil-guy-2-color.svg">
+    </figure>
+    <div class="big-quote has-yellow-outlined-shadow">
+        <p>Social events will happen before, during, and after the conference!</p>
+        <p>
+            <a href="/social-events" class="button">Social events</a>
+        </p>
+    </div>
+</div>
+<div class="lil-guy is-right">
+    <figure>
+        <img src="/static/images/lil-guy-1-color.svg">
     </figure>
     <div class="big-quote has-yellow-outlined-shadow">
         <p>Tables will happen on <strong>Friday, May 30th</strong> and <strong>Saturday, May 31st</strong> at <a href="https://science-engineering.ed.ac.uk/nucleus-building" target="_blank">The Nucleus Building, The University of Edinburgh</a>.</p>
@@ -27,9 +38,9 @@ title: 2025 Open Hardware Summit Schedule
         </p>
     </div>
 </div>
-<div class="lil-guy is-right">
+<div class="lil-guy is-left">
     <figure>
-        <img src="/static/images/lil-guy-1-color.svg">
+        <img src="/static/images/lil-guy-4-color.svg">
     </figure>
     <div class="big-quote  has-yellow-outlined-shadow">
         <p>Workshops will happen on <strong>Saturday, May 31st</strong> at <a href="https://science-engineering.ed.ac.uk/nucleus-building" target="_blank">The Nucleus Building, The University of Edinburgh</a>.</p>
@@ -38,9 +49,9 @@ title: 2025 Open Hardware Summit Schedule
         </p>
     </div>
 </div>
-<div class="lil-guy is-left">
+<div class="lil-guy is-right">
     <figure>
-        <img src="/static/images/lil-guy-4-color.svg">
+        <img src="/static/images/lil-guy-3-color.svg">
     </figure>
     <div class="big-quote  has-yellow-outlined-shadow">
         <p>Panels will happen on <strong>Saturday, May 31st</strong> at <a href="https://science-engineering.ed.ac.uk/nucleus-building" target="_blank">The Nucleus Building, The University of Edinburgh</a>.</p>
