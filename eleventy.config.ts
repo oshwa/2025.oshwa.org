@@ -62,6 +62,11 @@ export default function (eleventyConfig: any) {
                 return item.data.hidden !== true;
             });
     });
+    eleventyConfig.addCollection("social_events", (collectionApi: any) => {
+        return collectionApi
+            .getFilteredByTag("social_events")
+            .sort(startDateSorter);
+    });
 
     eleventyConfig.addFilter("formatDate", (date: Date, template: string, timezone: string = "Europe/London") => {
         // Reference: https://day.js.org/docs/en/display/format

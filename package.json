@@ -24,10 +24,12 @@
     },
     "devDependencies": {
         "@eslint/js": "^9.8.0",
+        "@shopify/liquid-html-parser": "^2.8.2",
+        "@shopify/prettier-plugin-liquid": "^1.9.3",
         "@types/eslint__js": "^8.42.3",
         "eslint": "^9.8.0",
         "eslint-config-prettier": "^9.1.0",
-        "prettier": "^3.3.3",
+        "prettier": "^3.5.3",
         "typescript": "^5.5.4",
         "typescript-eslint": "^7.18.0"
     }

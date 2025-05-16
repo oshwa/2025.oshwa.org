@@ -21,6 +21,8 @@
         {
             "files": ["*.html"],
             "options": {
+                "plugins": ["@shopify/prettier-plugin-liquid"],
+                "parser": "liquid-html",
                 "tabWidth": 2,
                 "htmlWhitespaceSensitivity": "ignore"
             }
