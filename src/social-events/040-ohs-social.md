@@ -6,4 +6,4 @@ organizer: Open Hardware Summit
 location: Wee Red Bar, Edinburgh
 ---
 
-Featuring open source performances from Mel Ho, Cristina Dezi and Masha Kouznetsova 
+Featuring open source performances from Mel Ho and Cristina Dezi 
