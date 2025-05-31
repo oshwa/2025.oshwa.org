@@ -2,7 +2,7 @@
 title: "Designing a library of affective touches"
 start: 2025-5-31 10:00 AM
 end: 2025-5-31 11:00 AM
-location: Room 3
+location: Haggis/Oak
 presenter: "Henrique Sambi, Caroline Yan Zheng"
 presenters:
 - name: Henrique Sambi
