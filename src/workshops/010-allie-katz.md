@@ -2,7 +2,7 @@
 title: "From Digital to Traditional: How to Use Technology to Hack Handmade Ceramics"
 start: 2025-5-31 10:50 AM
 end: 2025-5-31 12:50 PM
-location: Room 1
+location: Shetland Pony/Hawthorne
 presenter: Allie Katz
 presenters:
 - name: Allie Katz
