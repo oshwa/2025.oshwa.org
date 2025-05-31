@@ -2,7 +2,7 @@
 title: "We are building an Opencyclone"
 start: 2025-5-31 10:50 AM
 end: 2025-5-31 12:50 PM
-location: Room 2
+location: Haggis/Oak
 presenter: Sanguinette
 presenters:
 - name: Sanguinette
