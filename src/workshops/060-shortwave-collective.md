@@ -2,7 +2,7 @@
 title: "Build an Open Wave-Receiver"
 start: 2025-5-31 2:00 PM
 end: 2025-5-31 4:00 PM
-location: Haggis/Oak
+location: Larch
 presenter: Shortwave Collective
 presenters:
 - name: Shortwave Collective
