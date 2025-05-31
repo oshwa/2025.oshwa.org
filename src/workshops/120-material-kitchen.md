@@ -2,7 +2,7 @@
 title: "Touchy Feely Algae"
 start: 2025-5-31 5:00 PM
 end: 2025-5-31 6:00 PM
-location: Room 3
+location: Haggis/Oak
 presenter: Material Kitchen
 presenters:
 - name: Priyanka Makin
